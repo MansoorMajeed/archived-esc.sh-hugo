@@ -1,2 +1,4 @@
-baseurl = "https://doks-child-theme.netlify.app/"
+baseurl = "https://esc.sh/"
+disqusShortname = "digitz"
 canonifyURLs = true
+
