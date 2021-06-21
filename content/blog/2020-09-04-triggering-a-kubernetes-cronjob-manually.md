@@ -12,7 +12,7 @@ tags:
 - Quick Notes
 - Kubernetes
 title: Triggering a Kubernetes Cronjob manually
-url: triggering-a-kubernetes-cronjob-manually
+url: blog/triggering-a-kubernetes-cronjob-manually
 ---
 
 

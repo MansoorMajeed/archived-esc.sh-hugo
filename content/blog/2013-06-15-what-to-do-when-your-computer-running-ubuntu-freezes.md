@@ -4,7 +4,7 @@ date: "2013-06-15T16:09:13Z"
 description: ""
 draft: false
 title: What to do when your computer running ubuntu freezes?
-url: what-to-do-when-your-computer-running-ubuntu-freezes
+url: blog/what-to-do-when-your-computer-running-ubuntu-freezes
 ---
 
 

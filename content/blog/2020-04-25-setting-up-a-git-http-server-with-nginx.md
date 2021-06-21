@@ -12,7 +12,7 @@ tags:
 - SRE
 - Ops
 title: Setting up a Git HTTP server with Nginx
-url: setting-up-a-git-http-server-with-nginx
+url: blog/setting-up-a-git-http-server-with-nginx
 ---
 
 

@@ -4,7 +4,7 @@ date: "2014-10-04T10:50:00Z"
 description: ""
 draft: false
 title: Cannot mount NTFS in Centos 7? Here's how you will fix it
-url: cannot-mount-ntfs-in-centos-7-how-to
+url: blog/cannot-mount-ntfs-in-centos-7-how-to
 ---
 
 

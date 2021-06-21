@@ -12,7 +12,7 @@ tags:
 - Ops
 - Linux
 title: Inodes, Hard links and Soft links demystified
-url: inode-hardlink-softlink-explained
+url: blog/inode-hardlink-softlink-explained
 ---
 
 

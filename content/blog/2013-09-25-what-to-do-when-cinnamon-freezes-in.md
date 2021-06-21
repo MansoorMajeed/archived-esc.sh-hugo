@@ -4,7 +4,7 @@ date: "2013-09-25T18:12:00Z"
 description: ""
 draft: false
 title: What to do when cinnamon freezes in your Linux machine?
-url: what-to-do-when-cinnamon-freezes-in
+url: blog/what-to-do-when-cinnamon-freezes-in
 ---
 
 

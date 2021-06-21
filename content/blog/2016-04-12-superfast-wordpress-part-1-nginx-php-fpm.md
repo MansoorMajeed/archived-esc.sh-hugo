@@ -8,7 +8,7 @@ draft: false
 tags:
 - HomePage
 title: 'SuperFast WordPress Part 1 : Setting up Nginx + PHP-FPM + WordPress'
-url: superfast-wordpress-part-1-nginx-php-fpm
+url: blog/superfast-wordpress-part-1-nginx-php-fpm
 ---
 
 

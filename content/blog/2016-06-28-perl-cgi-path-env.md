@@ -4,7 +4,7 @@ date: "2016-06-28T11:07:00Z"
 description: ""
 draft: false
 title: Perl CGI scripts and PATH env variable
-url: perl-cgi-path-env
+url: blog/perl-cgi-path-env
 ---
 
 

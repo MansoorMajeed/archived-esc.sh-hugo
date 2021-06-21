@@ -4,7 +4,7 @@ date: "2016-06-28T11:07:00Z"
 description: ""
 draft: false
 title: Better RDP client for Fedora and Ubuntu
-url: remmina-ubuntu-fedora-rdp
+url: blog/remmina-ubuntu-fedora-rdp
 ---
 
 

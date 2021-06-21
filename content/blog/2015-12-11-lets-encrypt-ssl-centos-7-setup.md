@@ -4,7 +4,7 @@ date: "2015-12-11T23:54:31Z"
 description: ""
 draft: false
 title: Setup Let's encrypt SSL for your domains - Centos 6/7
-url: lets-encrypt-ssl-centos-7-setup
+url: blog/lets-encrypt-ssl-centos-7-setup
 ---
 
 

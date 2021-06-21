@@ -13,7 +13,7 @@ tags:
 - Blogging
 - Jekyll
 title: Load disqus comments on button click (Jekyll)
-url: load-disqus-on-click
+url: blog/load-disqus-on-click
 ---
 
 

@@ -4,7 +4,7 @@ date: "2016-05-29T11:07:00Z"
 description: ""
 draft: false
 title: How To Fix Poor Font Rendering in Fedora
-url: fix-ugly-fonts-in-fedora
+url: blog/fix-ugly-fonts-in-fedora
 ---
 
 

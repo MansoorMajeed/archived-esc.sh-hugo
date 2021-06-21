@@ -10,7 +10,7 @@ summary: Installing Linux on the tiny convertible budget laptop from Lenovo - Th
 tags:
 - Linux
 title: Installing Ubuntu Linux on Lenovo Miix 320 Hybrid Laptop
-url: linux-on-lenovo-miix-320
+url: blog/linux-on-lenovo-miix-320
 ---
 
 

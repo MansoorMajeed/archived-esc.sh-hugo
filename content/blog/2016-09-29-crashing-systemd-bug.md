@@ -4,7 +4,7 @@ date: "2016-09-29T00:07:00Z"
 description: ""
 draft: false
 title: Crashing systemd in one command by any user in the system
-url: crashing-systemd-bug
+url: blog/crashing-systemd-bug
 ---
 
 

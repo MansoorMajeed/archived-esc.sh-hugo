@@ -12,7 +12,7 @@ tags:
 - Letsencrypt
 - Ops
 title: Let'sEncrypt for local domains
-url: letsencrypt-ssl-for-local-domains
+url: blog/letsencrypt-ssl-for-local-domains
 ---
 
 

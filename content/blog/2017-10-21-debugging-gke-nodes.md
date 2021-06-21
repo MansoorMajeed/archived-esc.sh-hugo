@@ -12,7 +12,7 @@ tags:
 - Kubernetes
 - Google Cloud
 title: Debugging in Google Container Engine nodes
-url: debugging-gke-nodes
+url: blog/debugging-gke-nodes
 ---
 
 

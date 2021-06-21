@@ -15,7 +15,7 @@ tags:
 - Gatsby
 - HomePage
 title: Google Analytics not working in Gatsby blog
-url: google-analytics-not-working-in-gatsby-powered-blog
+url: blog/google-analytics-not-working-in-gatsby-powered-blog
 ---
 
 

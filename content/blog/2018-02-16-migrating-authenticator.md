@@ -12,7 +12,7 @@ tags:
 - HowTo
 - HomePage
 title: Migrating the Authenticator app to a new device
-url: migrating-authenticator
+url: blog/migrating-authenticator
 ---
 
 

@@ -10,7 +10,7 @@ summary: Some WD NVME SSDs are not working at all in Linux. It freezes randomly 
 tags:
 - Linux
 title: WD NVME SSD Freezing on Linux
-url: nvme-ssd-and-linux-freezing
+url: blog/nvme-ssd-and-linux-freezing
 ---
 
 

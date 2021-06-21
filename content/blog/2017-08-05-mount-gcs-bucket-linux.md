@@ -12,7 +12,7 @@ tags:
 - Google Cloud
 - HomePage
 title: How to mount a Google Cloud Bucket in Linux
-url: mount-gcs-bucket-linux
+url: blog/mount-gcs-bucket-linux
 ---
 
 

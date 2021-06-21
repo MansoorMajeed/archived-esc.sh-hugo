@@ -10,7 +10,7 @@ summary: Allowing Let'sEncrypt to do the HTTP validation while enforcing HTTP to
 tags:
 - Ops
 title: Fixing Letsencrypt renewal errors on SSL only domains
-url: letsencrypt-renewal-error
+url: blog/letsencrypt-renewal-error
 ---
 
 

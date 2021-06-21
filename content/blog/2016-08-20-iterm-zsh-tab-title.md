@@ -4,7 +4,7 @@ date: "2016-08-20T11:07:00Z"
 description: ""
 draft: false
 title: OSX, iTerm2, ZSH and the tab title
-url: iterm-zsh-tab-title
+url: blog/iterm-zsh-tab-title
 ---
 
 

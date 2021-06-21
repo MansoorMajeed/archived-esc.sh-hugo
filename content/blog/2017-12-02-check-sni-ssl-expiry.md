@@ -10,7 +10,7 @@ summary: 'When using openssl to connect to a server that''s using SNI, you need 
 tags:
 - Quick Notes
 title: Checking SNI SSL certificate expiry in Linux/Mac
-url: check-sni-ssl-expiry
+url: blog/check-sni-ssl-expiry
 ---
 
 

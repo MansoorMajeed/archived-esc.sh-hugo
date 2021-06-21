@@ -4,7 +4,7 @@ date: "2015-12-12T22:36:22Z"
 description: ""
 draft: false
 title: How to block XMLRPC, and allow only Jetpack
-url: how-to-block-xmlrpc-and-allow-only-jetpack
+url: blog/how-to-block-xmlrpc-and-allow-only-jetpack
 ---
 
 

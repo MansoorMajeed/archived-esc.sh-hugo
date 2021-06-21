@@ -4,7 +4,7 @@ date: "2016-05-28T20:57:40Z"
 description: ""
 draft: false
 title: Fix YUM getting stuck - Centos 6/7
-url: fix-yum-stuck-centos-fedora
+url: blog/fix-yum-stuck-centos-fedora
 ---
 
 

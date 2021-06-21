@@ -4,7 +4,7 @@ date: "2015-08-20T18:28:20Z"
 description: ""
 draft: false
 title: How To Install TWRP and Root Motorola Moto E 2nd Gen 3G version
-url: how-to-install-twrp-and-root-motorola-moto-e-2nd-gen-3g-version
+url: blog/how-to-install-twrp-and-root-motorola-moto-e-2nd-gen-3g-version
 ---
 
 

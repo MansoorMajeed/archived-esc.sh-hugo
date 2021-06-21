@@ -4,7 +4,7 @@ date: "2015-11-11T17:16:17Z"
 description: ""
 draft: false
 title: How to Manage your Azure account from the command line
-url: azure-commandline-setup
+url: blog/azure-commandline-setup
 ---
 
 

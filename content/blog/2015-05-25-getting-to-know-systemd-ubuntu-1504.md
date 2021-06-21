@@ -5,7 +5,7 @@ description: ""
 draft: false
 title: 'Getting to Know Systemd : Ubuntu 15.04+ / Centos 7+, How to manage your system
   using systemd'
-url: getting-to-know-systemd-ubuntu-1504
+url: blog/getting-to-know-systemd-ubuntu-1504
 ---
 
 

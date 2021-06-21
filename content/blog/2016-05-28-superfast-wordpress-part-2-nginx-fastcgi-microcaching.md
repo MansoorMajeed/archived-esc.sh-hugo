@@ -4,7 +4,7 @@ date: "2016-05-28T19:57:40Z"
 description: ""
 draft: false
 title: 'SuperFast WordPress Part 2 : Setting up FastCGI microcaching + Load tests'
-url: superfast-wordpress-part-2-nginx-fastcgi-microcaching
+url: blog/superfast-wordpress-part-2-nginx-fastcgi-microcaching
 ---
 
 

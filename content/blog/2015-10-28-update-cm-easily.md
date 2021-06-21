@@ -4,7 +4,7 @@ date: "2015-10-28T16:48:57Z"
 description: ""
 draft: false
 title: Update Cyanogenmod nightly without downloading the full ROM
-url: update-cm-easily
+url: blog/update-cm-easily
 ---
 
 

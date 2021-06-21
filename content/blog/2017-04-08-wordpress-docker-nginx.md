@@ -8,7 +8,7 @@ draft: false
 tags:
 - HomePage
 title: Installing WordPress in Docker using Nginx and Php-Fpm 7
-url: wordpress-docker-nginx
+url: blog/wordpress-docker-nginx
 ---
 
 

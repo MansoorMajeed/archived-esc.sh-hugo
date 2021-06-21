@@ -13,7 +13,7 @@ tags:
 - Quick Notes
 - Windows
 title: No internet on WSL2 while on VPN (Wireguard)
-url: wsl2-no-internet-vpn
+url: blog/wsl2-no-internet-vpn
 ---
 
 

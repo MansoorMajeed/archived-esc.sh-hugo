@@ -16,7 +16,7 @@ tags:
 - Linux
 - HomePage
 title: Setting up Nextcloud on Ubuntu
-url: nextcloud-setup-ubuntu
+url: blog/nextcloud-setup-ubuntu
 ---
 
 

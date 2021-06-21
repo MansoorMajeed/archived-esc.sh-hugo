@@ -13,7 +13,7 @@ tags:
 - Ops
 - HomePage
 title: Using SSH tunnel to reach a database server via JumpHost
-url: ssh-tunnel-through-multiple-hosts
+url: blog/ssh-tunnel-through-multiple-hosts
 ---
 
 

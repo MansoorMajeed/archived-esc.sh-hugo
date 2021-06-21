@@ -4,7 +4,7 @@ date: "2017-03-08T00:07:00Z"
 description: ""
 draft: false
 title: Fixing the weird iptables error
-url: fix-iptables-error
+url: blog/fix-iptables-error
 ---
 
 

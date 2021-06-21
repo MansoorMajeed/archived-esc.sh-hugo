@@ -11,7 +11,7 @@ summary: The correct way to use a specific SSH key for a single (or multiple if 
 tags:
 - Quick Notes
 title: Using specific SSH key for a single Git command
-url: using-different-ssh-key-for-a-single-git-command
+url: blog/using-different-ssh-key-for-a-single-git-command
 ---
 
 

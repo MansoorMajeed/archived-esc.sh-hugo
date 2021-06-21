@@ -9,7 +9,7 @@ summary: Setting up a private streaming server
 tags:
 - Linux
 title: Live streaming in two commands
-url: simple-live-streaming
+url: blog/simple-live-streaming
 ---
 
 
@@ -87,7 +87,7 @@ device are in the same network, you can use the local private IP like this
 
 ```
 Stream name: stream1
-URL: rtmp://192.168.1.100:1935/stream
+url: blog/rtmp://192.168.1.100:1935/stream
 ```
 
 Where `192.168.1.100` is the IP address of your laptop where Nginx is running.

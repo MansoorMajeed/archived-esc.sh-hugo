@@ -4,7 +4,7 @@ date: "2016-01-10T23:04:28Z"
 description: ""
 draft: false
 title: '[Script] How to set up Let''s Encrypt in cPanel/WHM ( Centos 6.x / 7.x )'
-url: lets-encrypt-cpanel-script
+url: blog/lets-encrypt-cpanel-script
 ---
 
 

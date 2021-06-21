@@ -4,7 +4,7 @@ date: "2020-06-26T17:55:07Z"
 description: ""
 draft: true
 title: Installing ChromeOS on Windows (Lenovo Miix 320)
-url: installing-chromeos-on-windows-lenovo-miix-320
+url: blog/installing-chromeos-on-windows-lenovo-miix-320
 ---
 
 

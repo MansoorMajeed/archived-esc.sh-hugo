@@ -5,7 +5,7 @@ description: ""
 draft: false
 title: Setting up Apache, MySQL, PHP ( LAMP) in Elementary OS, Ubuntu 14.04, 14.10,
   15.04
-url: setting-up-apache-mysql-php-lamp-in
+url: blog/setting-up-apache-mysql-php-lamp-in
 ---
 
 

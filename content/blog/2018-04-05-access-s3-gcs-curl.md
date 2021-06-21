@@ -12,7 +12,7 @@ tags:
 - Ops
 - SRE
 title: Accessing private objects from S3 or GCS using curl
-url: access-s3-gcs-curl
+url: blog/access-s3-gcs-curl
 ---
 
 

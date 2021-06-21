@@ -4,7 +4,7 @@ date: "2015-11-04T18:04:42Z"
 description: ""
 draft: false
 title: Share a directory instantly through a simple HTTP server
-url: instant-http-server
+url: blog/instant-http-server
 ---
 
 

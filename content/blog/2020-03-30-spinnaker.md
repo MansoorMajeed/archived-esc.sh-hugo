@@ -4,7 +4,7 @@ date: "2020-03-30T07:15:36Z"
 description: ""
 draft: true
 title: Spinnaker
-url: spinnaker
+url: blog/spinnaker
 ---
 
 

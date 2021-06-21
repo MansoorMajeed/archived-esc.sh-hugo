@@ -8,7 +8,7 @@ draft: false
 tags:
 - HomePage
 title: SQL Injection simplified
-url: sql-injection-simplified
+url: blog/sql-injection-simplified
 ---
 
 

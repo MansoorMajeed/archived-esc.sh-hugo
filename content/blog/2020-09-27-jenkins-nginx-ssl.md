@@ -6,7 +6,7 @@ draft: false
 image: https://cdn.esc.sh/2020/09/nginx_jenkinst.png
 summary: Setting up a Jenkins server with Nginx Reverse Proxy and SSL
 title: Setting up Jenkins with Nginx reverse proxy and SSL - Debian
-url: jenkins-nginx-ssl
+url: blog/jenkins-nginx-ssl
 ---
 
 

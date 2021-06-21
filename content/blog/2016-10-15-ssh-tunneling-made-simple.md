@@ -10,7 +10,7 @@ tags:
 - HomePage
 - Ops
 title: '[SSHUTTLE] SSH tunneling made simple'
-url: ssh-tunneling-made-simple
+url: blog/ssh-tunneling-made-simple
 ---
 
 

@@ -12,7 +12,7 @@ tags:
 - Kubernetes
 - HomePage
 title: Setting up Nginx Ingress in GKE
-url: nginx-ingress-gke-setup
+url: blog/nginx-ingress-gke-setup
 ---
 
 

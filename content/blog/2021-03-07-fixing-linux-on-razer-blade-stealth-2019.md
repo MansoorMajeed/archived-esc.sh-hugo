@@ -10,7 +10,7 @@ summary: Linux on Razer Blade Stealth 2019 works great except for a few hiccups 
 tags:
 - Linux
 title: Fixing Linux on Razer Blade Stealth 2019
-url: fixing-linux-on-razer-blade-stealth-2019
+url: blog/fixing-linux-on-razer-blade-stealth-2019
 ---
 
 

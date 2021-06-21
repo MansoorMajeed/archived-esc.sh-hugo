@@ -4,7 +4,7 @@ date: "2020-04-22T06:45:37Z"
 description: ""
 draft: true
 title: Log analysis at scale using BigQuery in Google Cloud
-url: log-analysis-at-scale-using-bigquery-in-google-cloud
+url: blog/log-analysis-at-scale-using-bigquery-in-google-cloud
 ---
 
 

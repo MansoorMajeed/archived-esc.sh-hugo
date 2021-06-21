@@ -4,7 +4,7 @@ date: "2015-11-10T18:48:33Z"
 description: ""
 draft: false
 title: How to install Software Center on Kali Linux 2.0 Sana
-url: install-software-center-on-kali-linux-2
+url: blog/install-software-center-on-kali-linux-2
 ---
 
 

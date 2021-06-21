@@ -4,7 +4,7 @@ date: "2016-07-22T11:07:00Z"
 description: ""
 draft: false
 title: Best Markdown editor for Mac
-url: markdown-editor-mac
+url: blog/markdown-editor-mac
 ---
 
 

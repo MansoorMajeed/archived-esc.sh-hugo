@@ -14,7 +14,7 @@ tags:
 - Gatsby
 - Ghost
 title: Ghost + Gatsby + Google Cloud Storage + Cloudflare - My blog setup
-url: ghost-gatsby-google-cloud-storage-cloudflare-my-blog-setup
+url: blog/ghost-gatsby-google-cloud-storage-cloudflare-my-blog-setup
 ---
 
 

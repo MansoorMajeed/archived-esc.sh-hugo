@@ -14,7 +14,7 @@ tags:
 - Ops
 - Quick Notes
 title: Copy files from a Docker image to the host
-url: copy-files-from-a-docker-image-to-the-host
+url: blog/copy-files-from-a-docker-image-to-the-host
 ---
 
 

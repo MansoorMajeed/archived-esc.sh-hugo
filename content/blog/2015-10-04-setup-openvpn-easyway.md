@@ -4,7 +4,7 @@ date: "2015-10-04T14:57:44Z"
 description: ""
 draft: false
 title: How to setup OpenVPN to browse internet securely - The easy way
-url: setup-openvpn-easyway
+url: blog/setup-openvpn-easyway
 ---
 
 

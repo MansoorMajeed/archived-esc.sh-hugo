@@ -4,7 +4,7 @@ date: "2014-10-11T10:18:00Z"
 description: ""
 draft: false
 title: How to create a new normal user with sudo permission in Kali Linux
-url: how-to-create-new-normal-user-with-sudo
+url: blog/how-to-create-new-normal-user-with-sudo
 ---
 
 

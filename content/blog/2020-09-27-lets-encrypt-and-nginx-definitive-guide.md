@@ -12,7 +12,7 @@ tags:
 - Nginx
 - Letsencrypt
 title: Let's Encrypt + Nginx - Definitive Guide for SSL (Production Ready)
-url: lets-encrypt-and-nginx-definitive-guide
+url: blog/lets-encrypt-and-nginx-definitive-guide
 ---
 
 

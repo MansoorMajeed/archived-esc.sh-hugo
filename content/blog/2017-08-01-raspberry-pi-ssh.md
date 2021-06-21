@@ -8,7 +8,7 @@ draft: false
 tags:
 - HomePage
 title: Enable SSH in Raspberry Pi without a monitor
-url: raspberry-pi-ssh
+url: blog/raspberry-pi-ssh
 ---
 
 

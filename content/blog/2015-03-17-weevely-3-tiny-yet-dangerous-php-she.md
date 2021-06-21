@@ -4,7 +4,7 @@ date: "2015-03-17T09:05:00Z"
 description: ""
 draft: false
 title: Weevely 3 - The Tiny Yet Dangerous PHP Shell
-url: weevely-3-tiny-yet-dangerous-php-she
+url: blog/weevely-3-tiny-yet-dangerous-php-she
 ---
 
 

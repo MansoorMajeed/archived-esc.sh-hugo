@@ -12,7 +12,7 @@ tags:
 - Ghost
 - Gatsby
 title: Why I moved from Jekyll to Ghost + Gatsby
-url: why-i-moved-from-jekyll-to-ghost-gatsby
+url: blog/why-i-moved-from-jekyll-to-ghost-gatsby
 ---
 
 

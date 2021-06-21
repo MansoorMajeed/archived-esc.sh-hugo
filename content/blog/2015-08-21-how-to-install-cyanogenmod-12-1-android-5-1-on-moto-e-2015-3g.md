@@ -4,7 +4,7 @@ date: "2015-08-21T17:52:51Z"
 description: ""
 draft: false
 title: How to install Cyanogenmod 12.1 (Android 5.1) on Moto E 2015 3G
-url: how-to-install-cyanogenmod-12-1-android-5-1-on-moto-e-2015-3g
+url: blog/how-to-install-cyanogenmod-12-1-android-5-1-on-moto-e-2015-3g
 ---
 
 

@@ -4,7 +4,7 @@ date: "2017-03-26T00:07:00Z"
 description: ""
 draft: false
 title: Logging in Golang using logrus
-url: golang-logging-using-logrus
+url: blog/golang-logging-using-logrus
 ---
 
 

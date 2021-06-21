@@ -14,7 +14,7 @@ tags:
 - Ops
 - Kubernetes
 title: Redirect HTTP to HTTPS on EKS behind ELB without using ingress
-url: redirect-http-to-https-on-eks-behind-elb
+url: blog/redirect-http-to-https-on-eks-behind-elb
 ---
 
 

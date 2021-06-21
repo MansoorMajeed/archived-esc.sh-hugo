@@ -4,7 +4,7 @@ date: "2016-10-15T00:07:00Z"
 description: ""
 draft: false
 title: '[Kali Linux] Fixing Wpscan due to broken dependencies'
-url: kali-linux-fix-wpscan-dependencies
+url: blog/kali-linux-fix-wpscan-dependencies
 ---
 
 

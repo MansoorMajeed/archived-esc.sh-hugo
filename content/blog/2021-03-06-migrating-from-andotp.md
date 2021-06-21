@@ -10,7 +10,7 @@ summary: Migrating from andOTP to other applications including to other platform
 tags:
 - HowTo
 title: Migrating From andOTP to Other Apps
-url: migrating-from-andotp
+url: blog/migrating-from-andotp
 ---
 
 

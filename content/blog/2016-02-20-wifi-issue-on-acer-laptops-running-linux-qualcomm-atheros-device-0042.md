@@ -5,7 +5,7 @@ description: ""
 draft: false
 title: Fixing the WiFi issue on Acer Laptops running Linux ( Qualcomm Atheros Device
   0042 )
-url: wifi-issue-on-acer-laptops-running-linux-qualcomm-atheros-device-0042
+url: blog/wifi-issue-on-acer-laptops-running-linux-qualcomm-atheros-device-0042
 ---
 
 

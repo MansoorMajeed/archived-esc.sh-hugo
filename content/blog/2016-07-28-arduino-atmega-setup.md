@@ -8,7 +8,7 @@ draft: false
 tags:
 - HomePage
 title: Setting up Arduino IDE
-url: arduino-atmega-setup
+url: blog/arduino-atmega-setup
 ---
 
 

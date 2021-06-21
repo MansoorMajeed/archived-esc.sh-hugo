@@ -4,7 +4,7 @@ date: "2015-11-20T13:37:41Z"
 description: ""
 draft: false
 title: How to fix python errors when installing modules
-url: how-to-fix-python-errors-when-installing-modules
+url: blog/how-to-fix-python-errors-when-installing-modules
 ---
 
 

@@ -4,7 +4,7 @@ date: "2016-12-29T00:07:00Z"
 description: ""
 draft: false
 title: Linux Reboot System call and Linus' Birthday
-url: linux-reboot-easter-egg
+url: blog/linux-reboot-easter-egg
 ---
 
 

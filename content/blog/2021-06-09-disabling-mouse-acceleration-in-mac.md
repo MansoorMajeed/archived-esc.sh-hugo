@@ -5,7 +5,7 @@ description: ""
 draft: false
 summary: 'How to disable mouse acceleration in MacOS '
 title: Disabling Mouse Acceleration in MacOS
-url: disabling-mouse-acceleration-in-mac
+url: blog/disabling-mouse-acceleration-in-mac
 ---
 
 

@@ -4,7 +4,7 @@ date: "2017-06-29T00:07:00Z"
 description: ""
 draft: false
 title: Could not push Docker images to Google Container Registry
-url: docker-push-failing-in-google-container-registry
+url: blog/docker-push-failing-in-google-container-registry
 ---
 
 

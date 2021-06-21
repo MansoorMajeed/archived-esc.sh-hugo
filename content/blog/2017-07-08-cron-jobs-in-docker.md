@@ -4,7 +4,7 @@ date: "2017-07-08T00:07:00Z"
 description: ""
 draft: false
 title: Using cron in Docker containers ( Kubernetes )
-url: cron-jobs-in-docker
+url: blog/cron-jobs-in-docker
 ---
 
 

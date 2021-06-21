@@ -4,7 +4,7 @@ date: "2016-03-19T22:45:58Z"
 description: ""
 draft: false
 title: How to disable IPv6 in Exim
-url: disable-ipv6-in-exim
+url: blog/disable-ipv6-in-exim
 ---
 
 

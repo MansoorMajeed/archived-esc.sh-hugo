@@ -10,7 +10,7 @@ summary: How to increase the mouse scroll speed in Linux without messing up goog
 tags:
 - Linux
 title: Increasing Mouse Scroll Speed in Linux
-url: mouse-scroll-speed-in-linux
+url: blog/mouse-scroll-speed-in-linux
 ---
 
 

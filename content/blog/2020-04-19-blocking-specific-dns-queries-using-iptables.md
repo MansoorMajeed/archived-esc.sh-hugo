@@ -13,7 +13,7 @@ tags:
 - Quick Notes
 - Ops
 title: Blocking specific DNS queries in a VPN using iptables
-url: blocking-specific-dns-queries-using-iptables
+url: blog/blocking-specific-dns-queries-using-iptables
 ---
 
 

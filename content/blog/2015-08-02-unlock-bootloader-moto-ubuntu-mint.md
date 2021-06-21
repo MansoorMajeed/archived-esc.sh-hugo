@@ -4,7 +4,7 @@ date: "2015-08-02T11:23:37Z"
 description: ""
 draft: false
 title: How to unlock bootloader of Motorola Devices Using Ubuntu/Linux Mint
-url: unlock-bootloader-moto-ubuntu-mint
+url: blog/unlock-bootloader-moto-ubuntu-mint
 ---
 
 

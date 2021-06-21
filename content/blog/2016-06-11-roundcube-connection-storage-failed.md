@@ -4,7 +4,7 @@ date: "2016-06-11T11:07:00Z"
 description: ""
 draft: false
 title: Fix 'Roundcube - Connection to storage server failed' error
-url: roundcube-connection-storage-failed
+url: blog/roundcube-connection-storage-failed
 ---
 
 

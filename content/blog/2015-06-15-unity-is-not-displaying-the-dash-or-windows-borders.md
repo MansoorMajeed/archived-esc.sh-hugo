@@ -4,7 +4,7 @@ date: "2015-06-15T17:21:10Z"
 description: ""
 draft: false
 title: Unity is not displaying the dash or window borders?
-url: unity-is-not-displaying-the-dash-or-windows-borders
+url: blog/unity-is-not-displaying-the-dash-or-windows-borders
 ---
 
 

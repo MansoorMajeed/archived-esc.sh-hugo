@@ -4,7 +4,7 @@ date: "2016-07-23T11:07:00Z"
 description: ""
 draft: false
 title: FFmpeg installation script for CentOS
-url: ffmpeg-installation-centos
+url: blog/ffmpeg-installation-centos
 ---
 
 

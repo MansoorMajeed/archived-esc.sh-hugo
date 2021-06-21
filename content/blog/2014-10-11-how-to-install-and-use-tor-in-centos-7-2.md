@@ -4,7 +4,7 @@ date: "2014-10-11T18:16:00Z"
 description: ""
 draft: false
 title: How To install and use tor in centos 7
-url: how-to-install-and-use-tor-in-centos-7-2
+url: blog/how-to-install-and-use-tor-in-centos-7-2
 ---
 
 

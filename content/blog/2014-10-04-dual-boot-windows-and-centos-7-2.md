@@ -4,7 +4,7 @@ date: "2014-10-04T11:35:00Z"
 description: ""
 draft: false
 title: Dual boot Windows and Centos 7
-url: dual-boot-windows-and-centos-7-2
+url: blog/dual-boot-windows-and-centos-7-2
 ---
 
 

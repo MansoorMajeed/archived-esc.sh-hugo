@@ -12,7 +12,7 @@ tags:
 - Linux
 - ThinkPad-E14
 title: ThinkPad E-14 AMD Function Keys not working
-url: thinkpad-e-14-fn-key
+url: blog/thinkpad-e-14-fn-key
 ---
 
 

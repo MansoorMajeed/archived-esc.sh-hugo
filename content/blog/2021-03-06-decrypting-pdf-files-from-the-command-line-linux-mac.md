@@ -11,7 +11,7 @@ summary: Sometimes you need to mass decrypt PDF files (Telephone bill comes to m
 tags:
 - HowTo
 title: Decrypting PDF files from the command line (Linux/Mac)
-url: decrypting-pdf-files-from-the-command-line-linux-mac
+url: blog/decrypting-pdf-files-from-the-command-line-linux-mac
 ---
 
 

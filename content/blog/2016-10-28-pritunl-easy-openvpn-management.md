@@ -10,7 +10,7 @@ tags:
 - HomePage
 - Ops
 title: Pritunl - Easiest way to setup OpenVPN
-url: pritunl-easy-openvpn-management
+url: blog/pritunl-easy-openvpn-management
 ---
 
 

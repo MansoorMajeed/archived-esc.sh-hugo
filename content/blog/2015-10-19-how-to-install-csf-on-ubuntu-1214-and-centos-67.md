@@ -4,7 +4,7 @@ date: "2015-10-19T17:19:55Z"
 description: ""
 draft: false
 title: How to install CSF on Ubuntu 12/14, and Centos 6/7
-url: how-to-install-csf-on-ubuntu-1214-and-centos-67
+url: blog/how-to-install-csf-on-ubuntu-1214-and-centos-67
 ---
 
 
