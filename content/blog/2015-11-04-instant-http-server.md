@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-11-04T18:04:42Z
 description = ""
 draft = false
-slug = "instant-http-server"
+url = "instant-http-server"
 title = "Share a directory instantly through a simple HTTP server"
 
 +++

@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-10-04T14:57:44Z
 description = ""
 draft = false
-slug = "setup-openvpn-easyway"
+url = "setup-openvpn-easyway"
 title = "How to setup OpenVPN to browse internet securely - The easy way"
 
 +++

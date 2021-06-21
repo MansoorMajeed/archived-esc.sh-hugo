@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-11-21T17:22:00Z
 description = ""
 draft = false
-slug = "install-gui-ubuntu-server"
+url = "install-gui-ubuntu-server"
 title = "How to install GUI (X-Server) on Ubuntu Server"
 
 +++

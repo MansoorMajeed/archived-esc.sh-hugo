@@ -4,7 +4,7 @@ categories = ["HomePage"]
 date = 2016-07-28T11:07:00Z
 description = ""
 draft = false
-slug = "arduino-atmega-setup"
+url = "arduino-atmega-setup"
 tags = ["HomePage"]
 title = "Setting up Arduino IDE"
 

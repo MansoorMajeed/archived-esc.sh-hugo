@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2017-03-08T00:07:00Z
 description = ""
 draft = false
-slug = "fix-iptables-error"
+url = "fix-iptables-error"
 title = "Fixing the weird iptables error"
 
 +++

@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-12-11T23:32:44Z
 description = ""
 draft = false
-slug = "setting-up-virtualhost-in-centos-7"
+url = "setting-up-virtualhost-in-centos-7"
 title = "Setting up VirtualHost in Centos 7"
 
 +++

@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-11-11T17:16:17Z
 description = ""
 draft = false
-slug = "azure-commandline-setup"
+url = "azure-commandline-setup"
 title = "How to Manage your Azure account from the command line"
 
 +++

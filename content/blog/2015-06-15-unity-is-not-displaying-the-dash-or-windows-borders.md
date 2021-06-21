@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-06-15T17:21:10Z
 description = ""
 draft = false
-slug = "unity-is-not-displaying-the-dash-or-windows-borders"
+url = "unity-is-not-displaying-the-dash-or-windows-borders"
 title = "Unity is not displaying the dash or window borders?"
 
 +++

@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2014-10-11T18:16:00Z
 description = ""
 draft = false
-slug = "how-to-install-and-use-tor-in-centos-7-2"
+url = "how-to-install-and-use-tor-in-centos-7-2"
 title = "How To install and use tor in centos 7"
 
 +++

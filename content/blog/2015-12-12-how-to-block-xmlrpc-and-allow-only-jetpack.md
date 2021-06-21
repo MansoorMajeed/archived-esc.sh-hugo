@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-12-12T22:36:22Z
 description = ""
 draft = false
-slug = "how-to-block-xmlrpc-and-allow-only-jetpack"
+url = "how-to-block-xmlrpc-and-allow-only-jetpack"
 title = "How to block XMLRPC, and allow only Jetpack"
 
 +++

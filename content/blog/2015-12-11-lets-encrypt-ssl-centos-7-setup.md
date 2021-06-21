@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-12-11T23:54:31Z
 description = ""
 draft = false
-slug = "lets-encrypt-ssl-centos-7-setup"
+url = "lets-encrypt-ssl-centos-7-setup"
 title = "Setup Let's encrypt SSL for your domains - Centos 6/7"
 
 +++

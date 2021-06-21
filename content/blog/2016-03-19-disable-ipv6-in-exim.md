@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-03-19T22:45:58Z
 description = ""
 draft = false
-slug = "disable-ipv6-in-exim"
+url = "disable-ipv6-in-exim"
 title = "How to disable IPv6 in Exim"
 
 +++

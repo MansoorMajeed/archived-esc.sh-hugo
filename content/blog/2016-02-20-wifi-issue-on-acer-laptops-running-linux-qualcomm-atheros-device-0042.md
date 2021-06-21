@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-02-20T20:51:04Z
 description = ""
 draft = false
-slug = "wifi-issue-on-acer-laptops-running-linux-qualcomm-atheros-device-0042"
+url = "wifi-issue-on-acer-laptops-running-linux-qualcomm-atheros-device-0042"
 title = "Fixing the WiFi issue on Acer Laptops running Linux ( Qualcomm Atheros Device 0042 )"
 
 +++

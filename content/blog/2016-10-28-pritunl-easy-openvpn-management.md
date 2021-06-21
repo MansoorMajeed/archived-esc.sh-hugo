@@ -4,7 +4,7 @@ categories = ["HomePage", "Ops"]
 date = 2016-10-28T00:07:00Z
 description = ""
 draft = false
-slug = "pritunl-easy-openvpn-management"
+url = "pritunl-easy-openvpn-management"
 tags = ["HomePage", "Ops"]
 title = "Pritunl - Easiest way to setup OpenVPN"
 

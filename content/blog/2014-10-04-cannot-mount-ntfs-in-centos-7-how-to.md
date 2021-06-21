@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2014-10-04T10:50:00Z
 description = ""
 draft = false
-slug = "cannot-mount-ntfs-in-centos-7-how-to"
+url = "cannot-mount-ntfs-in-centos-7-how-to"
 title = "Cannot mount NTFS in Centos 7? Here's how you will fix it"
 
 +++

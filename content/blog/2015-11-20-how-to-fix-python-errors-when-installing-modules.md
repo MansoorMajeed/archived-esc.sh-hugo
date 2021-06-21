@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-11-20T13:37:41Z
 description = ""
 draft = false
-slug = "how-to-fix-python-errors-when-installing-modules"
+url = "how-to-fix-python-errors-when-installing-modules"
 title = "How to fix python errors when installing modules"
 
 +++

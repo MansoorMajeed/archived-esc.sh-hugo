@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2017-03-26T00:07:00Z
 description = ""
 draft = false
-slug = "golang-logging-using-logrus"
+url = "golang-logging-using-logrus"
 title = "Logging in Golang using logrus"
 
 +++

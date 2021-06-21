@@ -4,7 +4,7 @@ categories = ["HomePage"]
 date = 2017-04-08T00:07:00Z
 description = ""
 draft = false
-slug = "wordpress-docker-nginx"
+url = "wordpress-docker-nginx"
 tags = ["HomePage"]
 title = "Installing WordPress in Docker using Nginx and Php-Fpm 7"
 

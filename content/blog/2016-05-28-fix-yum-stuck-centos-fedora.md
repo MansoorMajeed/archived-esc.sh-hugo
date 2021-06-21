@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-05-28T20:57:40Z
 description = ""
 draft = false
-slug = "fix-yum-stuck-centos-fedora"
+url = "fix-yum-stuck-centos-fedora"
 title = "Fix YUM getting stuck - Centos 6/7"
 
 +++

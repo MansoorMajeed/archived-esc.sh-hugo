@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-11-20T13:12:43Z
 description = ""
 draft = false
-slug = "howdoi-get-instant-coding-answers-in-your-terminal-itself"
+url = "howdoi-get-instant-coding-answers-in-your-terminal-itself"
 title = "\"Howdoi\" - Get instant coding answers in your terminal itself"
 
 +++

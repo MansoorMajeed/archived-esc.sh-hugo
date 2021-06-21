@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-08-29T19:55:37Z
 description = ""
 draft = false
-slug = "how-to-install-and-use-google-chrome-on-kali-linux-2-0"
+url = "how-to-install-and-use-google-chrome-on-kali-linux-2-0"
 title = "How to install and use Google Chrome on Kali Linux 2.0"
 
 +++

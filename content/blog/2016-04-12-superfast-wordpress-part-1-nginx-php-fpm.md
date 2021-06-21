@@ -4,7 +4,7 @@ categories = ["HomePage"]
 date = 2016-04-12T19:57:40Z
 description = ""
 draft = false
-slug = "superfast-wordpress-part-1-nginx-php-fpm"
+url = "superfast-wordpress-part-1-nginx-php-fpm"
 tags = ["HomePage"]
 title = "SuperFast WordPress Part 1 : Setting up Nginx + PHP-FPM + WordPress"
 

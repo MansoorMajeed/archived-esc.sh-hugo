@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-05-28T19:57:40Z
 description = ""
 draft = false
-slug = "superfast-wordpress-part-2-nginx-fastcgi-microcaching"
+url = "superfast-wordpress-part-2-nginx-fastcgi-microcaching"
 title = "SuperFast WordPress Part 2 : Setting up FastCGI microcaching + Load tests"
 
 +++

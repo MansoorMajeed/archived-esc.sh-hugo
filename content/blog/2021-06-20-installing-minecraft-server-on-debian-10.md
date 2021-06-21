@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2021-06-20T14:45:00Z
 description = ""
 draft = true
-slug = "installing-minecraft-server-on-debian-10"
+url = "installing-minecraft-server-on-debian-10"
 title = "Installing MineCraft server on Debian 10"
 
 +++

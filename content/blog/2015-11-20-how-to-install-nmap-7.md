@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-11-20T08:39:59Z
 description = ""
 draft = false
-slug = "how-to-install-nmap-7"
+url = "how-to-install-nmap-7"
 title = "How to install nmap 7"
 
 +++

@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-08-20T18:37:39Z
 description = ""
 draft = false
-slug = "how-to-setup-xampp-lamp-in-centos-7"
+url = "how-to-setup-xampp-lamp-in-centos-7"
 title = "How To Setup XAMPP (LAMP) In Centos 7"
 
 +++

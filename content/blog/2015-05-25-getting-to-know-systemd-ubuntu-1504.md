@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-05-25T17:08:00Z
 description = ""
 draft = false
-slug = "getting-to-know-systemd-ubuntu-1504"
+url = "getting-to-know-systemd-ubuntu-1504"
 title = "Getting to Know Systemd : Ubuntu 15.04+ / Centos 7+, How to manage your system using systemd"
 
 +++

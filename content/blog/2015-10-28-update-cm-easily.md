@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-10-28T16:48:57Z
 description = ""
 draft = false
-slug = "update-cm-easily"
+url = "update-cm-easily"
 title = "Update Cyanogenmod nightly without downloading the full ROM"
 
 +++

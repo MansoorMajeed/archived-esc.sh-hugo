@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-05-29T11:07:00Z
 description = ""
 draft = false
-slug = "fix-ugly-fonts-in-fedora"
+url = "fix-ugly-fonts-in-fedora"
 title = "How To Fix Poor Font Rendering in Fedora"
 
 +++

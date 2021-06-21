@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2013-06-15T16:09:13Z
 description = ""
 draft = false
-slug = "what-to-do-when-your-computer-running-ubuntu-freezes"
+url = "what-to-do-when-your-computer-running-ubuntu-freezes"
 title = "What to do when your computer running ubuntu freezes?"
 
 +++

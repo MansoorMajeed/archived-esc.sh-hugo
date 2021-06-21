@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-07-23T11:07:00Z
 description = ""
 draft = false
-slug = "ffmpeg-installation-centos"
+url = "ffmpeg-installation-centos"
 title = "FFmpeg installation script for CentOS"
 
 +++

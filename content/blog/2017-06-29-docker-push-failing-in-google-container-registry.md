@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2017-06-29T00:07:00Z
 description = ""
 draft = false
-slug = "docker-push-failing-in-google-container-registry"
+url = "docker-push-failing-in-google-container-registry"
 title = "Could not push Docker images to Google Container Registry"
 
 +++

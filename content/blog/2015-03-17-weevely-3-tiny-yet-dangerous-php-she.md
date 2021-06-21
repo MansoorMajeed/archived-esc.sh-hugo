@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-03-17T09:05:00Z
 description = ""
 draft = false
-slug = "weevely-3-tiny-yet-dangerous-php-she"
+url = "weevely-3-tiny-yet-dangerous-php-she"
 title = "Weevely 3 - The Tiny Yet Dangerous PHP Shell"
 
 +++

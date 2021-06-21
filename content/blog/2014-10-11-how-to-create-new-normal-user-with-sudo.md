@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2014-10-11T10:18:00Z
 description = ""
 draft = false
-slug = "how-to-create-new-normal-user-with-sudo"
+url = "how-to-create-new-normal-user-with-sudo"
 title = "How to create a new normal user with sudo permission in Kali Linux"
 
 +++

@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2020-04-25T12:11:42Z
 description = ""
 draft = true
-slug = "speed-testing-static-site-hosting-platforms"
+url = "speed-testing-static-site-hosting-platforms"
 title = "Speed testing static site hosting platforms"
 
 +++

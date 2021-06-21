@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-01-10T23:04:28Z
 description = ""
 draft = false
-slug = "lets-encrypt-cpanel-script"
+url = "lets-encrypt-cpanel-script"
 title = "[Script] How to set up Let's Encrypt in cPanel/WHM ( Centos 6.x / 7.x )"
 
 +++

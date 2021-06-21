@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2013-03-02T07:39:00Z
 description = ""
 draft = false
-slug = "infosec-part-2-crashing-windows-7"
+url = "infosec-part-2-crashing-windows-7"
 title = "InfoSec - Crashing A Windows 7 System Using Metasploit : MS10-006"
 
 +++

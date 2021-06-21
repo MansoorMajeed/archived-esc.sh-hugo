@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-09-06T17:55:21Z
 description = ""
 draft = false
-slug = "how-to-set-up-the-sources-lst-on-kali-linux-2-0"
+url = "how-to-set-up-the-sources-lst-on-kali-linux-2-0"
 title = "How to set up the sources.lst on Kali Linux 2.0"
 
 +++

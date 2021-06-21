@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2015-08-02T11:23:37Z
 description = ""
 draft = false
-slug = "unlock-bootloader-moto-ubuntu-mint"
+url = "unlock-bootloader-moto-ubuntu-mint"
 title = "How to unlock bootloader of Motorola Devices Using Ubuntu/Linux Mint"
 
 +++

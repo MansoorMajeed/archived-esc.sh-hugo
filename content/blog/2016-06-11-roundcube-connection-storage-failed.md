@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-06-11T11:07:00Z
 description = ""
 draft = false
-slug = "roundcube-connection-storage-failed"
+url = "roundcube-connection-storage-failed"
 title = "Fix 'Roundcube - Connection to storage server failed' error"
 
 +++

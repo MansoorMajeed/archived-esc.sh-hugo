@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-06-28T11:07:00Z
 description = ""
 draft = false
-slug = "remmina-ubuntu-fedora-rdp"
+url = "remmina-ubuntu-fedora-rdp"
 title = "Better RDP client for Fedora and Ubuntu"
 
 +++

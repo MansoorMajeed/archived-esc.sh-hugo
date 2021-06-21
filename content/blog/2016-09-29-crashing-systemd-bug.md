@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-09-29T00:07:00Z
 description = ""
 draft = false
-slug = "crashing-systemd-bug"
+url = "crashing-systemd-bug"
 title = "Crashing systemd in one command by any user in the system"
 
 +++

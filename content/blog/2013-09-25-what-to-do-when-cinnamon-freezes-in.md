@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2013-09-25T18:12:00Z
 description = ""
 draft = false
-slug = "what-to-do-when-cinnamon-freezes-in"
+url = "what-to-do-when-cinnamon-freezes-in"
 title = "What to do when cinnamon freezes in your Linux machine?"
 
 +++

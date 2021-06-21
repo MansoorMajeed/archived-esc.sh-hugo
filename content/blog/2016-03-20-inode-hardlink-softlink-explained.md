@@ -4,7 +4,7 @@ categories = ["HomePage", "Ops", "Linux"]
 date = 2016-03-20T14:41:03Z
 description = ""
 draft = false
-slug = "inode-hardlink-softlink-explained"
+url = "inode-hardlink-softlink-explained"
 tags = ["HomePage", "Ops", "Linux"]
 title = "Inodes, Hard links and Soft links demystified"
 

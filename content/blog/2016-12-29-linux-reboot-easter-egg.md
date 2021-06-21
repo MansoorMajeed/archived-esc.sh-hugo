@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-12-29T00:07:00Z
 description = ""
 draft = false
-slug = "linux-reboot-easter-egg"
+url = "linux-reboot-easter-egg"
 title = "Linux Reboot System call and Linus' Birthday"
 
 +++

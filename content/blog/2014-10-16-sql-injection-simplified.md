@@ -4,7 +4,7 @@ categories = ["HomePage"]
 date = 2014-10-16T15:47:58Z
 description = ""
 draft = false
-slug = "sql-injection-simplified"
+url = "sql-injection-simplified"
 tags = ["HomePage"]
 title = "SQL Injection simplified"
 

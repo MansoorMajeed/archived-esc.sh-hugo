@@ -4,7 +4,7 @@ categories = ["HomePage"]
 date = 2017-08-01T00:07:00Z
 description = ""
 draft = false
-slug = "raspberry-pi-ssh"
+url = "raspberry-pi-ssh"
 tags = ["HomePage"]
 title = "Enable SSH in Raspberry Pi without a monitor"
 

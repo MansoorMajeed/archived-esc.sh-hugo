@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-07-22T11:07:00Z
 description = ""
 draft = false
-slug = "markdown-editor-mac"
+url = "markdown-editor-mac"
 title = "Best Markdown editor for Mac"
 
 +++

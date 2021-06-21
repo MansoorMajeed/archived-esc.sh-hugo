@@ -4,7 +4,7 @@ date = 2020-09-27T09:29:12Z
 description = ""
 draft = false
 image = "https://cdn.esc.sh/2020/09/nginx_jenkinst.png"
-slug = "jenkins-nginx-ssl"
+url = "jenkins-nginx-ssl"
 summary = "Setting up a Jenkins server with Nginx Reverse Proxy and SSL"
 title = "Setting up Jenkins with Nginx reverse proxy and SSL - Debian"
 

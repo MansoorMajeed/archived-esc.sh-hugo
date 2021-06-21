@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2012-10-01T17:19:00Z
 description = ""
 draft = false
-slug = "how-to-install-redhat-linux-on"
+url = "how-to-install-redhat-linux-on"
 title = "How to install Redhat Linux on Virtualbox"
 
 +++

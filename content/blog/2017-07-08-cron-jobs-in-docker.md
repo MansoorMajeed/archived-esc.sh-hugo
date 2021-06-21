@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2017-07-08T00:07:00Z
 description = ""
 draft = false
-slug = "cron-jobs-in-docker"
+url = "cron-jobs-in-docker"
 title = "Using cron in Docker containers ( Kubernetes )"
 
 +++

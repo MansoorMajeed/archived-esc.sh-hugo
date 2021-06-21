@@ -3,7 +3,7 @@ author = "Mansoor A"
 date = 2016-10-15T00:07:00Z
 description = ""
 draft = false
-slug = "kali-linux-fix-wpscan-dependencies"
+url = "kali-linux-fix-wpscan-dependencies"
 title = "[Kali Linux] Fixing Wpscan due to broken dependencies"
 
 +++
