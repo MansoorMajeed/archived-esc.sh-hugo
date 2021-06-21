@@ -4,7 +4,7 @@
   weight = 10
 
 [[main]]
-  name = "DevOps From Scratch"
+  name = "DevOps"
   url = "/projects/devops-from-scratch"
   weight = 20
 

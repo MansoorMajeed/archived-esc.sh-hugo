@@ -1,10 +1,10 @@
 ---
 date: "2020-08-27T19:25:12+02:00"
-description: Drop us an email.
+description: Drop me an email.
 draft: false
 images: []
 lastmod: "2020-08-27T19:25:12+02:00"
 title: Contact
 ---
 
-{{< email user="hello" domain="getdoks.org" >}}
+{{< email user="m" domain="esc.sh" >}}
