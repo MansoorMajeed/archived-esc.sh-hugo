@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2017-07-08T00:07:00Z
-description = ""
-draft = false
-url = "cron-jobs-in-docker"
-title = "Using cron in Docker containers ( Kubernetes )"
-
-+++
+---
+author: Mansoor A
+date: "2017-07-08T00:07:00Z"
+description: ""
+draft: false
+title: Using cron in Docker containers ( Kubernetes )
+url: cron-jobs-in-docker
+---
 
 
 When it comes to Docker containers, even a simple task can be pretty confusing, like the cron jobs.

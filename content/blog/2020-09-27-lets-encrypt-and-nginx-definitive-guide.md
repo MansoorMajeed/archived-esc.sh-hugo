@@ -1,16 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Nginx", "Letsencrypt"]
-date = 2020-09-27T09:17:48Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/09/nginx_letsencrypt.png"
-url = "lets-encrypt-and-nginx-definitive-guide"
-summary = "Everything you may need to setup SSL with Lets encrypt and Nginx"
-tags = ["Nginx", "Letsencrypt"]
-title = "Let's Encrypt + Nginx - Definitive Guide for SSL (Production Ready)"
-
-+++
+---
+author: Mansoor A
+categories:
+- Nginx
+- Letsencrypt
+date: "2020-09-27T09:17:48Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/09/nginx_letsencrypt.png
+summary: Everything you may need to setup SSL with Lets encrypt and Nginx
+tags:
+- Nginx
+- Letsencrypt
+title: Let's Encrypt + Nginx - Definitive Guide for SSL (Production Ready)
+url: lets-encrypt-and-nginx-definitive-guide
+---
 
 
 This blog post explains how to setup and configure SSL for a domain name

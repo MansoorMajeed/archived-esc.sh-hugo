@@ -1,15 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Google Cloud", "HomePage"]
-date = 2017-08-05T00:07:00Z
-description = ""
-draft = false
-url = "mount-gcs-bucket-linux"
-summary = "Easily mount a Google Cloud Storage bucket in a Linux file system using gcsfuse and use it as if a local disk attached"
-tags = ["Google Cloud", "HomePage"]
-title = "How to mount a Google Cloud Bucket in Linux"
-
-+++
+---
+author: Mansoor A
+categories:
+- Google Cloud
+- HomePage
+date: "2017-08-05T00:07:00Z"
+description: ""
+draft: false
+summary: Easily mount a Google Cloud Storage bucket in a Linux file system using gcsfuse
+  and use it as if a local disk attached
+tags:
+- Google Cloud
+- HomePage
+title: How to mount a Google Cloud Bucket in Linux
+url: mount-gcs-bucket-linux
+---
 
 
 Google Cloud Storage is Google's equivalent of Amazon's S3. And it's cheaper than S3 and works pretty great.

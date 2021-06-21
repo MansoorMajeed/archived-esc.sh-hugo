@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-08-27T15:13:54Z
-description = ""
-draft = false
-url = "how-to-install-and-setup-tor-on-kali-linux-2-0"
-title = "How to install and setup Tor on Kali Linux 2.0"
-
-+++
+---
+author: Mansoor A
+date: "2015-08-27T15:13:54Z"
+description: ""
+draft: false
+title: How to install and setup Tor on Kali Linux 2.0
+url: how-to-install-and-setup-tor-on-kali-linux-2-0
+---
 
 
 I've been using Kali Linux 2.0 for a couple of weeks and one thing I missed from the default install was the tor browser.

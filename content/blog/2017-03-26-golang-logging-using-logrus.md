@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2017-03-26T00:07:00Z
-description = ""
-draft = false
-url = "golang-logging-using-logrus"
-title = "Logging in Golang using logrus"
-
-+++
+---
+author: Mansoor A
+date: "2017-03-26T00:07:00Z"
+description: ""
+draft: false
+title: Logging in Golang using logrus
+url: golang-logging-using-logrus
+---
 
 
 If you just started out with Golang, you'd find it a bit difficult to handle logging with the default pacakge `log`

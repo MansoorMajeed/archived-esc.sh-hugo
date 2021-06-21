@@ -1,12 +1,12 @@
-+++
-author = "Mansoor A"
-date = 2015-05-25T17:08:00Z
-description = ""
-draft = false
-url = "getting-to-know-systemd-ubuntu-1504"
-title = "Getting to Know Systemd : Ubuntu 15.04+ / Centos 7+, How to manage your system using systemd"
-
-+++
+---
+author: Mansoor A
+date: "2015-05-25T17:08:00Z"
+description: ""
+draft: false
+title: 'Getting to Know Systemd : Ubuntu 15.04+ / Centos 7+, How to manage your system
+  using systemd'
+url: getting-to-know-systemd-ubuntu-1504
+---
 
 
 Well, systemd is here. But, why should you care? If you're going to use ubuntu 15.04+ or Centos 7, you're gonna need systemd.

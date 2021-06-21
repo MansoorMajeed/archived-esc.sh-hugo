@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-08-20T11:07:00Z
-description = ""
-draft = false
-url = "iterm-zsh-tab-title"
-title = "OSX, iTerm2, ZSH and the tab title"
-
-+++
+---
+author: Mansoor A
+date: "2016-08-20T11:07:00Z"
+description: ""
+draft: false
+title: OSX, iTerm2, ZSH and the tab title
+url: iterm-zsh-tab-title
+---
 
 
 ### TL;DR

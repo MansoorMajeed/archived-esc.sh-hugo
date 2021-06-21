@@ -1,15 +1,23 @@
-+++
-author = "Mansoor A"
-categories = ["Ops", "Selfhost", "Linux", "HomePage"]
-date = 2018-04-01T00:07:00Z
-description = ""
-draft = false
-url = "nextcloud-setup-ubuntu"
-summary = "Setting up a private NextCloud server for Contacts, Files, Calendars, Tasks and even video calling"
-tags = ["Ops", "Selfhost", "Linux", "HomePage"]
-title = "Setting up Nextcloud on Ubuntu"
-
-+++
+---
+author: Mansoor A
+categories:
+- Ops
+- Selfhost
+- Linux
+- HomePage
+date: "2018-04-01T00:07:00Z"
+description: ""
+draft: false
+summary: Setting up a private NextCloud server for Contacts, Files, Calendars, Tasks
+  and even video calling
+tags:
+- Ops
+- Selfhost
+- Linux
+- HomePage
+title: Setting up Nextcloud on Ubuntu
+url: nextcloud-setup-ubuntu
+---
 
 
 Nextcloud is like Dropbox, except that you host, control and own your data. Nextcloud is one of the most amazing open source software available out there. It can do a lot of things. A few of my favourites are:

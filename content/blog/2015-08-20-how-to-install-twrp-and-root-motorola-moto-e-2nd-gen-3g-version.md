@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-08-20T18:28:20Z
-description = ""
-draft = false
-url = "how-to-install-twrp-and-root-motorola-moto-e-2nd-gen-3g-version"
-title = "How To Install TWRP and Root Motorola Moto E 2nd Gen 3G version"
-
-+++
+---
+author: Mansoor A
+date: "2015-08-20T18:28:20Z"
+description: ""
+draft: false
+title: How To Install TWRP and Root Motorola Moto E 2nd Gen 3G version
+url: how-to-install-twrp-and-root-motorola-moto-e-2nd-gen-3g-version
+---
 
 
 If you wanted to root your Motorola Moto E 2nd Generation ( 3G version / Moto E 2015 / XT1506), you came to the right place. Let's get started

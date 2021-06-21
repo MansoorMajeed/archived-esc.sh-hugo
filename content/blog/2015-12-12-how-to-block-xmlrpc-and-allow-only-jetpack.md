@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-12-12T22:36:22Z
-description = ""
-draft = false
-url = "how-to-block-xmlrpc-and-allow-only-jetpack"
-title = "How to block XMLRPC, and allow only Jetpack"
-
-+++
+---
+author: Mansoor A
+date: "2015-12-12T22:36:22Z"
+description: ""
+draft: false
+title: How to block XMLRPC, and allow only Jetpack
+url: how-to-block-xmlrpc-and-allow-only-jetpack
+---
 
 
 XML-RPC is a remote procedure call protocol with the data in "XML" format and the transport mechanism is "HTTP". WordPress provides an XMLRPC interface to your WordPress installation so that you can do all kind of stuff like, "Create a post", "edit a post" etc, remotely. Basically, you can do pretty much everything through the XML-RPC interface. Okay, that sounds cool. What is the problem?

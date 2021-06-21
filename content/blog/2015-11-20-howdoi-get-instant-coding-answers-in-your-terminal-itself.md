@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-11-20T13:12:43Z
-description = ""
-draft = false
-url = "howdoi-get-instant-coding-answers-in-your-terminal-itself"
-title = "\"Howdoi\" - Get instant coding answers in your terminal itself"
-
-+++
+---
+author: Mansoor A
+date: "2015-11-20T13:12:43Z"
+description: ""
+draft: false
+title: '"Howdoi" - Get instant coding answers in your terminal itself'
+url: howdoi-get-instant-coding-answers-in-your-terminal-itself
+---
 
 
 If you're  a sysadmin, programmer, or even a hacker, you might come across a situation where you quickly want to know an answer to a simple question, like "How to get epoch time on bash?", or whatever. What you usually do is, open up the browser, start searching in google. But, what if I told you you can get the answer from your command line / terminal itself? Sounds cool, right? There is this tool called "howdoi" which does exactly that. I'll show you a couple of examples to get the idea of how this tool can help you.

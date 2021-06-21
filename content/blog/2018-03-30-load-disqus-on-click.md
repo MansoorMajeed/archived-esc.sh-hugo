@@ -1,15 +1,20 @@
-+++
-author = "Mansoor A"
-categories = ["Blogging", "Jekyll"]
-date = 2018-03-30T00:07:00Z
-description = ""
-draft = false
-url = "load-disqus-on-click"
-summary = "Making sure that Disqus doesn't slow down your website for no reason. By making disqus load only when a button is clicked, we can improve the page load speed dramatically"
-tags = ["Blogging", "Jekyll"]
-title = "Load disqus comments on button click (Jekyll)"
-
-+++
+---
+author: Mansoor A
+categories:
+- Blogging
+- Jekyll
+date: "2018-03-30T00:07:00Z"
+description: ""
+draft: false
+summary: Making sure that Disqus doesn't slow down your website for no reason. By
+  making disqus load only when a button is clicked, we can improve the page load speed
+  dramatically
+tags:
+- Blogging
+- Jekyll
+title: Load disqus comments on button click (Jekyll)
+url: load-disqus-on-click
+---
 
 
 Most of us use Disqus for comments, especially with static blog generators like Jekyll. The reason

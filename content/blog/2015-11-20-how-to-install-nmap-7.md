@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-11-20T08:39:59Z
-description = ""
-draft = false
-url = "how-to-install-nmap-7"
-title = "How to install nmap 7"
-
-+++
+---
+author: Mansoor A
+date: "2015-11-20T08:39:59Z"
+description: ""
+draft: false
+title: How to install nmap 7
+url: how-to-install-nmap-7
+---
 
 
 Nmap, the ultimate security scanner has released the latest version - nmap v7.

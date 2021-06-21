@@ -1,14 +1,15 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage"]
-date = 2014-10-16T15:47:58Z
-description = ""
-draft = false
-url = "sql-injection-simplified"
-tags = ["HomePage"]
-title = "SQL Injection simplified"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+date: "2014-10-16T15:47:58Z"
+description: ""
+draft: false
+tags:
+- HomePage
+title: SQL Injection simplified
+url: sql-injection-simplified
+---
 
 
 SQL injection, we have all heard of it. Some of you might have even tried to inject SQL into a vulnerable website. 

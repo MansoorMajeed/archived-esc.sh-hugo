@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["Quick Notes"]
-date = 2017-12-02T00:07:00Z
-description = ""
-draft = false
-url = "check-sni-ssl-expiry"
-summary = "When using openssl to connect to a server that's using SNI, you need to use the servername option "
-tags = ["Quick Notes"]
-title = "Checking SNI SSL certificate expiry in Linux/Mac"
-
-+++
+---
+author: Mansoor A
+categories:
+- Quick Notes
+date: "2017-12-02T00:07:00Z"
+description: ""
+draft: false
+summary: 'When using openssl to connect to a server that''s using SNI, you need to
+  use the servername option '
+tags:
+- Quick Notes
+title: Checking SNI SSL certificate expiry in Linux/Mac
+url: check-sni-ssl-expiry
+---
 
 
 ### The Problem

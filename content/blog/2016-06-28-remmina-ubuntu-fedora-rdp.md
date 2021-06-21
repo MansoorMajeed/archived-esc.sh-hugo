@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-06-28T11:07:00Z
-description = ""
-draft = false
-url = "remmina-ubuntu-fedora-rdp"
-title = "Better RDP client for Fedora and Ubuntu"
-
-+++
+---
+author: Mansoor A
+date: "2016-06-28T11:07:00Z"
+description: ""
+draft: false
+title: Better RDP client for Fedora and Ubuntu
+url: remmina-ubuntu-fedora-rdp
+---
 
 
 The other day, I had to use RDP to connect to a customer's Windows Server 2012. I use a Linux Workstation, so normally, I use "rdesktop" to get things done. But, this time, when I did `rdesktop 95.x.x.x` I got the following error.

@@ -1,14 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage", "Ops", "Linux"]
-date = 2016-03-20T14:41:03Z
-description = ""
-draft = false
-url = "inode-hardlink-softlink-explained"
-tags = ["HomePage", "Ops", "Linux"]
-title = "Inodes, Hard links and Soft links demystified"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+- Ops
+- Linux
+date: "2016-03-20T14:41:03Z"
+description: ""
+draft: false
+tags:
+- HomePage
+- Ops
+- Linux
+title: Inodes, Hard links and Soft links demystified
+url: inode-hardlink-softlink-explained
+---
 
 
 If you're a beginner in Linux, chances are you've come across this question yourself. What exactly is a hard link? And how the heck does it differ from a soft link ( symbolic link or symlink ). Sometimes even experienced Linux Admins have this question.

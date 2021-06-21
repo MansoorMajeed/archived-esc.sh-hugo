@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["Linux"]
-date = 2021-03-06T03:50:44Z
-description = ""
-draft = false
-url = "nvme-ssd-and-linux-freezing"
-summary = "Some WD NVME SSDs are not working at all in Linux. It freezes randomly and is practically unusable. Here we discuss a solution to the problem"
-tags = ["Linux"]
-title = "WD NVME SSD Freezing on Linux"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+date: "2021-03-06T03:50:44Z"
+description: ""
+draft: false
+summary: Some WD NVME SSDs are not working at all in Linux. It freezes randomly and
+  is practically unusable. Here we discuss a solution to the problem
+tags:
+- Linux
+title: WD NVME SSD Freezing on Linux
+url: nvme-ssd-and-linux-freezing
+---
 
 
 ## Backstory

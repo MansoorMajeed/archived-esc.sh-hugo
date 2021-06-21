@@ -1,12 +1,12 @@
-+++
-author = "Mansoor A"
-date = 2016-02-20T20:51:04Z
-description = ""
-draft = false
-url = "wifi-issue-on-acer-laptops-running-linux-qualcomm-atheros-device-0042"
-title = "Fixing the WiFi issue on Acer Laptops running Linux ( Qualcomm Atheros Device 0042 )"
-
-+++
+---
+author: Mansoor A
+date: "2016-02-20T20:51:04Z"
+description: ""
+draft: false
+title: Fixing the WiFi issue on Acer Laptops running Linux ( Qualcomm Atheros Device
+  0042 )
+url: wifi-issue-on-acer-laptops-running-linux-qualcomm-atheros-device-0042
+---
 
 
 Last week, I bought an Acer Laptop which had Linpus Linux installed in it. The reason why I went for acer instead of HP was that I intend to use Linux Mint as my primary operating systems and HP systems are notorious when it comes to Linux and wifi drivers.

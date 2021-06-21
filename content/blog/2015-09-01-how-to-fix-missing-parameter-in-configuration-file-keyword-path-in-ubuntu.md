@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-09-01T18:03:11Z
-description = ""
-draft = false
-url = "how-to-fix-missing-parameter-in-configuration-file-keyword-path-in-ubuntu"
-title = "How to fix \"Missing parameter in configuration file. Keyword: path\" in Ubuntu"
-
-+++
+---
+author: Mansoor A
+date: "2015-09-01T18:03:11Z"
+description: ""
+draft: false
+title: 'How to fix "Missing parameter in configuration file. Keyword: path" in Ubuntu'
+url: how-to-fix-missing-parameter-in-configuration-file-keyword-path-in-ubuntu
+---
 
 
 There is no point in talking much about it. You're probably trying to get your Ubuntu live USB to work. Let's get to the point.

@@ -1,10 +1,10 @@
 ---
-title: "Henk Verlinde"
-description: "Creator of Hyas."
-date: 2020-10-06T08:50:45+00:00
-lastmod: 2020-10-06T08:50:45+00:00
+date: "2020-10-06T08:50:45+00:00"
+description: Creator of Hyas.
 draft: false
 images: []
+lastmod: "2020-10-06T08:50:45+00:00"
+title: Henk Verlinde
 ---
 
 Creator of Hyas.

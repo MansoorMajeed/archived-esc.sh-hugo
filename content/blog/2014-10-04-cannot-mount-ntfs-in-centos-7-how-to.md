@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2014-10-04T10:50:00Z
-description = ""
-draft = false
-url = "cannot-mount-ntfs-in-centos-7-how-to"
-title = "Cannot mount NTFS in Centos 7? Here's how you will fix it"
-
-+++
+---
+author: Mansoor A
+date: "2014-10-04T10:50:00Z"
+description: ""
+draft: false
+title: Cannot mount NTFS in Centos 7? Here's how you will fix it
+url: cannot-mount-ntfs-in-centos-7-how-to
+---
 
 
 Yesterday, I installed Centos 7 and when I tried to open one of my partitions, (which is NTFS file system), it showed me an error saying that It cannot mount ntfs file systems. Then I did some research and found a solution, which works great.

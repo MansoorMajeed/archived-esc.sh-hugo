@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-03-19T22:45:58Z
-description = ""
-draft = false
-url = "disable-ipv6-in-exim"
-title = "How to disable IPv6 in Exim"
-
-+++
+---
+author: Mansoor A
+date: "2016-03-19T22:45:58Z"
+description: ""
+draft: false
+title: How to disable IPv6 in Exim
+url: disable-ipv6-in-exim
+---
 
 
 The other day I was just [ seriously, for no apparent reason 😀 ] going through the exim logs in my server and this error caught my eye.

@@ -1,15 +1,18 @@
-+++
-author = "Mansoor A"
-categories = ["HowTo"]
-date = 2021-03-06T04:46:51Z
-description = ""
-draft = false
-url = "decrypting-pdf-files-from-the-command-line-linux-mac"
-summary = "Sometimes you need to mass decrypt PDF files (Telephone bill comes to mind). Opening them one by one and entering the password, finding a way to export them to a non encrypted file all seem too tedious. Let's do it from the command line"
-tags = ["HowTo"]
-title = "Decrypting PDF files from the command line (Linux/Mac)"
-
-+++
+---
+author: Mansoor A
+categories:
+- HowTo
+date: "2021-03-06T04:46:51Z"
+description: ""
+draft: false
+summary: Sometimes you need to mass decrypt PDF files (Telephone bill comes to mind).
+  Opening them one by one and entering the password, finding a way to export them
+  to a non encrypted file all seem too tedious. Let's do it from the command line
+tags:
+- HowTo
+title: Decrypting PDF files from the command line (Linux/Mac)
+url: decrypting-pdf-files-from-the-command-line-linux-mac
+---
 
 
 ### Why?

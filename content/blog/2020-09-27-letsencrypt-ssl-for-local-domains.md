@@ -1,16 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Letsencrypt", "Ops"]
-date = 2020-09-27T09:48:30Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/09/local_letsencrypt.png"
-url = "letsencrypt-ssl-for-local-domains"
-summary = "Easily fetch let's encrypt SSL certificates for local domains"
-tags = ["Letsencrypt", "Ops"]
-title = "Let'sEncrypt for local domains"
-
-+++
+---
+author: Mansoor A
+categories:
+- Letsencrypt
+- Ops
+date: "2020-09-27T09:48:30Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/09/local_letsencrypt.png
+summary: Easily fetch let's encrypt SSL certificates for local domains
+tags:
+- Letsencrypt
+- Ops
+title: Let'sEncrypt for local domains
+url: letsencrypt-ssl-for-local-domains
+---
 
 
 If you want to setup actual trusted SSL certificates locally, you can do that using Let's Encrypt

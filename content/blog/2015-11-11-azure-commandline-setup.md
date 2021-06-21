@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-11-11T17:16:17Z
-description = ""
-draft = false
-url = "azure-commandline-setup"
-title = "How to Manage your Azure account from the command line"
-
-+++
+---
+author: Mansoor A
+date: "2015-11-11T17:16:17Z"
+description: ""
+draft: false
+title: How to Manage your Azure account from the command line
+url: azure-commandline-setup
+---
 
 
 Even though I'm a Linux guy, I'll agree on this - Azure is awesome. Especially for developers. If you have an MSDN subscription, things get a lot better. In essence, Azure is pure awesome. Create, deploy, test, destroy VMs and cloud services without any hiccups. Well, this post is for the command line junkies among you ( fortunately or unfortunately, I'm one of them.. 😉 ). Managing VMs ( or cloud services for that matter ) from the GUI is too main stream. Besides, it is insanely slow and considerably unproductive. Sometimes it takes too much time load the dashboard from where you can manage your VMs, mobile apps, cloud services etc. And I thought, there might be CLI for the azure cloud., and there is. Microsoft knew that some people will always prefer the good old "command line".

@@ -1,14 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage", "Ops"]
-date = 2016-10-28T00:07:00Z
-description = ""
-draft = false
-url = "pritunl-easy-openvpn-management"
-tags = ["HomePage", "Ops"]
-title = "Pritunl - Easiest way to setup OpenVPN"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+- Ops
+date: "2016-10-28T00:07:00Z"
+description: ""
+draft: false
+tags:
+- HomePage
+- Ops
+title: Pritunl - Easiest way to setup OpenVPN
+url: pritunl-easy-openvpn-management
+---
 
 
 Setting up OpenVPN on your own server can be real pain in the a**. I know a lot of you would agree with me there. 

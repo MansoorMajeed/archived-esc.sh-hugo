@@ -1,15 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Kubernetes", "Google Cloud"]
-date = 2017-10-21T00:07:00Z
-description = ""
-draft = false
-url = "debugging-gke-nodes"
-summary = "Google Kubernetes Engine nodes do not have a package manager to install debug tools. You need to use `toolbox` for that"
-tags = ["Kubernetes", "Google Cloud"]
-title = "Debugging in Google Container Engine nodes"
-
-+++
+---
+author: Mansoor A
+categories:
+- Kubernetes
+- Google Cloud
+date: "2017-10-21T00:07:00Z"
+description: ""
+draft: false
+summary: Google Kubernetes Engine nodes do not have a package manager to install debug
+  tools. You need to use `toolbox` for that
+tags:
+- Kubernetes
+- Google Cloud
+title: Debugging in Google Container Engine nodes
+url: debugging-gke-nodes
+---
 
 
 If you are using Kubernetes in Google Container Engine, at some point, you might have to debug from the node level (Nodes are the virtual machines where the entire cluster lives). For any debugging, you might need some additional packages, like `tcpdump` or `netstat`. The catch here is that the operating system of these hosts (CoreOS) does not have a package manager installed and you cannot install packages directly. Here is how you do it.

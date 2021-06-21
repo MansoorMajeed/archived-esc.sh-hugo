@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["Linux"]
-date = 2021-03-06T03:17:23Z
-description = ""
-draft = false
-url = "mouse-scroll-speed-in-linux"
-summary = "How to increase the mouse scroll speed in Linux without messing up google chrome"
-tags = ["Linux"]
-title = "Increasing Mouse Scroll Speed in Linux"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+date: "2021-03-06T03:17:23Z"
+description: ""
+draft: false
+summary: How to increase the mouse scroll speed in Linux without messing up google
+  chrome
+tags:
+- Linux
+title: Increasing Mouse Scroll Speed in Linux
+url: mouse-scroll-speed-in-linux
+---
 
 
 

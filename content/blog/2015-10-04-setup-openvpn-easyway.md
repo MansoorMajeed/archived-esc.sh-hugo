@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-10-04T14:57:44Z
-description = ""
-draft = false
-url = "setup-openvpn-easyway"
-title = "How to setup OpenVPN to browse internet securely - The easy way"
-
-+++
+---
+author: Mansoor A
+date: "2015-10-04T14:57:44Z"
+description: ""
+draft: false
+title: How to setup OpenVPN to browse internet securely - The easy way
+url: setup-openvpn-easyway
+---
 
 
 Setting up OpenVPN can be such a pain. I had a really hard time trying to figure out what went wrong. I set up everything correctly, the connection between the client and the server is getting established, but alas, I (the client) don't have internet access. I spent a lot of time figuring out what might be the issue, then I stumbled upon "OpenVPN Access Server". All It took was 1 minutes to setup everything. No kidding. I was able to connect to the server without any issue at all.

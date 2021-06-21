@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-08-20T18:37:39Z
-description = ""
-draft = false
-url = "how-to-setup-xampp-lamp-in-centos-7"
-title = "How To Setup XAMPP (LAMP) In Centos 7"
-
-+++
+---
+author: Mansoor A
+date: "2015-08-20T18:37:39Z"
+description: ""
+draft: false
+title: How To Setup XAMPP (LAMP) In Centos 7
+url: how-to-setup-xampp-lamp-in-centos-7
+---
 
 
 This is still confusing for so many people. They just started to use Linux and they get confused when told about LAMP instead of XAMPP. Let me explain this to you. LAMP stands for `Linux Apache MySQL and PHP`. ie, it is a stack of Apache, MySQL, and PHP in a Linux environment.

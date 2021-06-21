@@ -1,15 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Ops", "SRE"]
-date = 2018-04-05T00:07:00Z
-description = ""
-draft = false
-url = "access-s3-gcs-curl"
-summary = "Quick script to access private objects from Google Cloud Storage or Amazon S3 using the secret and key"
-tags = ["Ops", "SRE"]
-title = "Accessing private objects from S3 or GCS using curl"
-
-+++
+---
+author: Mansoor A
+categories:
+- Ops
+- SRE
+date: "2018-04-05T00:07:00Z"
+description: ""
+draft: false
+summary: Quick script to access private objects from Google Cloud Storage or Amazon
+  S3 using the secret and key
+tags:
+- Ops
+- SRE
+title: Accessing private objects from S3 or GCS using curl
+url: access-s3-gcs-curl
+---
 
 
 There will be scenarios where you might want to make a request directly to Google Cloud Storage Bucket or your Amazon

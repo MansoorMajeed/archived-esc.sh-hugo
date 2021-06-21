@@ -1,14 +1,15 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage"]
-date = 2016-04-12T19:57:40Z
-description = ""
-draft = false
-url = "superfast-wordpress-part-1-nginx-php-fpm"
-tags = ["HomePage"]
-title = "SuperFast WordPress Part 1 : Setting up Nginx + PHP-FPM + WordPress"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+date: "2016-04-12T19:57:40Z"
+description: ""
+draft: false
+tags:
+- HomePage
+title: 'SuperFast WordPress Part 1 : Setting up Nginx + PHP-FPM + WordPress'
+url: superfast-wordpress-part-1-nginx-php-fpm
+---
 
 
 Nginx is fast. How fast? It's crazy fast, if you configure it properly. In this post, I will help you guys to set up a WordPress site powered by Nginx that can server 1000s of users at the same time ( Oh, I'm not even close to exaggerating, You'll see! )

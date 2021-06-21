@@ -1,14 +1,15 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage"]
-date = 2017-08-01T00:07:00Z
-description = ""
-draft = false
-url = "raspberry-pi-ssh"
-tags = ["HomePage"]
-title = "Enable SSH in Raspberry Pi without a monitor"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+date: "2017-08-01T00:07:00Z"
+description: ""
+draft: false
+tags:
+- HomePage
+title: Enable SSH in Raspberry Pi without a monitor
+url: raspberry-pi-ssh
+---
 
 
 If you are trying to setup your Raspberry Pi ( Running Raspbian ) without a monitor, you might be in for a surprise.

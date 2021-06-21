@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2017-03-08T00:07:00Z
-description = ""
-draft = false
-url = "fix-iptables-error"
-title = "Fixing the weird iptables error"
-
-+++
+---
+author: Mansoor A
+date: "2017-03-08T00:07:00Z"
+description: ""
+draft: false
+title: Fixing the weird iptables error
+url: fix-iptables-error
+---
 
 
 I am gonna make it short and simple. This issue is something I have seen on so many Debian 7 servers.

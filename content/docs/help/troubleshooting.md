@@ -1,16 +1,16 @@
 ---
-title: "Troubleshooting"
-description: "Solutions to common problems."
-lead: "Solutions to common problems."
-date: 2020-11-12T15:22:20+01:00
-lastmod: 2020-11-12T15:22:20+01:00
+date: "2020-11-12T15:22:20+01:00"
+description: Solutions to common problems.
 draft: false
 images: []
-menu: 
+lastmod: "2020-11-12T15:22:20+01:00"
+lead: Solutions to common problems.
+menu:
   docs:
-    parent: "help"
-weight: 620
+    parent: help
+title: Troubleshooting
 toc: true
+weight: 620
 ---
 
 ## Problems updating npm packages

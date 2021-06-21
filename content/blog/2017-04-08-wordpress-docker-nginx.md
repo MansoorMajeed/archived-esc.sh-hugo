@@ -1,14 +1,15 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage"]
-date = 2017-04-08T00:07:00Z
-description = ""
-draft = false
-url = "wordpress-docker-nginx"
-tags = ["HomePage"]
-title = "Installing WordPress in Docker using Nginx and Php-Fpm 7"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+date: "2017-04-08T00:07:00Z"
+description: ""
+draft: false
+tags:
+- HomePage
+title: Installing WordPress in Docker using Nginx and Php-Fpm 7
+url: wordpress-docker-nginx
+---
 
 
 It is evident that you don't need an introduction to Docker, WordPress or Nginx. So there is no point whatsoever in blabbering about each of these technologies, let's just jump right into the matter.

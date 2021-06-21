@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-12-11T23:54:31Z
-description = ""
-draft = false
-url = "lets-encrypt-ssl-centos-7-setup"
-title = "Setup Let's encrypt SSL for your domains - Centos 6/7"
-
-+++
+---
+author: Mansoor A
+date: "2015-12-11T23:54:31Z"
+description: ""
+draft: false
+title: Setup Let's encrypt SSL for your domains - Centos 6/7
+url: lets-encrypt-ssl-centos-7-setup
+---
 
 
 The wait is over. Let's encrypt is now in public beta, meaning, you and I can get valid, trusted SSL certificates for our domains, FOR FREE, FOR LIFE TIME. I know, even I didn't believe it the first time, but it's true. It's free. Free as in freedom.

@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-12-29T00:07:00Z
-description = ""
-draft = false
-url = "linux-reboot-easter-egg"
-title = "Linux Reboot System call and Linus' Birthday"
-
-+++
+---
+author: Mansoor A
+date: "2016-12-29T00:07:00Z"
+description: ""
+draft: false
+title: Linux Reboot System call and Linus' Birthday
+url: linux-reboot-easter-egg
+---
 
 
 Today (28-Dec)  is Linus Torvald, Linux creator's birthday and I wanted to share with you an easter egg hidden in the Linux `reboot()` system call.

@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["HowTo"]
-date = 2021-03-06T04:32:34Z
-description = ""
-draft = false
-url = "migrating-from-andotp"
-summary = "Migrating from andOTP to other applications including to other platforms. We simply generate the QR codes from the backup file"
-tags = ["HowTo"]
-title = "Migrating From andOTP to Other Apps"
-
-+++
+---
+author: Mansoor A
+categories:
+- HowTo
+date: "2021-03-06T04:32:34Z"
+description: ""
+draft: false
+summary: Migrating from andOTP to other applications including to other platforms.
+  We simply generate the QR codes from the backup file
+tags:
+- HowTo
+title: Migrating From andOTP to Other Apps
+url: migrating-from-andotp
+---
 
 
 ## My use case

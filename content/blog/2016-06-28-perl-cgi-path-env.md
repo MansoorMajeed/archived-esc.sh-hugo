@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-06-28T11:07:00Z
-description = ""
-draft = false
-url = "perl-cgi-path-env"
-title = "Perl CGI scripts and PATH env variable"
-
-+++
+---
+author: Mansoor A
+date: "2016-06-28T11:07:00Z"
+description: ""
+draft: false
+title: Perl CGI scripts and PATH env variable
+url: perl-cgi-path-env
+---
 
 
 If you are trying to invoke system commands from a Perl CGI script, chances are it won't work all the time. For example, if your CGI script has something like

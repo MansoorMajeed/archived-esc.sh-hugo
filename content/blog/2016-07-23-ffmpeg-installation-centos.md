@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-07-23T11:07:00Z
-description = ""
-draft = false
-url = "ffmpeg-installation-centos"
-title = "FFmpeg installation script for CentOS"
-
-+++
+---
+author: Mansoor A
+date: "2016-07-23T11:07:00Z"
+description: ""
+draft: false
+title: FFmpeg installation script for CentOS
+url: ffmpeg-installation-centos
+---
 
 
 Installing FFmpeg can be a PIA. It became a lot easier recently. But, still some people face issues when trying to get FFmpeg working on their system. Well, here is one script I made when I had to install FFmpeg on several servers a while back. It works. Thought I'd share it with you. 

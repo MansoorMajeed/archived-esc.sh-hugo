@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2014-10-04T11:07:00Z
-description = ""
-draft = false
-url = "how-to-enable-epel-in-centos-7"
-title = "How To Enable EPEL repository in Centos 7"
-
-+++
+---
+author: Mansoor A
+date: "2014-10-04T11:07:00Z"
+description: ""
+draft: false
+title: How To Enable EPEL repository in Centos 7
+url: how-to-enable-epel-in-centos-7
+---
 
 
 Let's go straight to the point!!

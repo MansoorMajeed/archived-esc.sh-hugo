@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2017-06-29T00:07:00Z
-description = ""
-draft = false
-url = "docker-push-failing-in-google-container-registry"
-title = "Could not push Docker images to Google Container Registry"
-
-+++
+---
+author: Mansoor A
+date: "2017-06-29T00:07:00Z"
+description: ""
+draft: false
+title: Could not push Docker images to Google Container Registry
+url: docker-push-failing-in-google-container-registry
+---
 
 
 Today I updated the Docker daemon on my Mac ( Running macOS Sierra ) and after that, I just could not push any images to Google Container Registry. It fails with the following message

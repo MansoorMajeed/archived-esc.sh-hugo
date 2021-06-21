@@ -1,16 +1,16 @@
 ---
-title: "Quick Start"
-description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
-date: 2020-11-16T13:59:39+01:00
-lastmod: 2020-11-16T13:59:39+01:00
+date: "2020-11-16T13:59:39+01:00"
+description: One page summary of how to start a new Doks project.
 draft: false
 images: []
+lastmod: "2020-11-16T13:59:39+01:00"
+lead: One page summary of how to start a new Doks project.
 menu:
   docs:
-    parent: "prologue"
-weight: 110
+    parent: prologue
+title: Quick Start
 toc: true
+weight: 110
 ---
 
 ## Requirements

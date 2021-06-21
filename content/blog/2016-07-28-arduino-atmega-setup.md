@@ -1,14 +1,15 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage"]
-date = 2016-07-28T11:07:00Z
-description = ""
-draft = false
-url = "arduino-atmega-setup"
-tags = ["HomePage"]
-title = "Setting up Arduino IDE"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+date: "2016-07-28T11:07:00Z"
+description: ""
+draft: false
+tags:
+- HomePage
+title: Setting up Arduino IDE
+url: arduino-atmega-setup
+---
 
 
 If you're here, you probably have a very good idea about what Arduino is and you just want to setup your local machine

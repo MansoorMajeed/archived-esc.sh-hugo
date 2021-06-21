@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-05-28T19:57:40Z
-description = ""
-draft = false
-url = "superfast-wordpress-part-2-nginx-fastcgi-microcaching"
-title = "SuperFast WordPress Part 2 : Setting up FastCGI microcaching + Load tests"
-
-+++
+---
+author: Mansoor A
+date: "2016-05-28T19:57:40Z"
+description: ""
+draft: false
+title: 'SuperFast WordPress Part 2 : Setting up FastCGI microcaching + Load tests'
+url: superfast-wordpress-part-2-nginx-fastcgi-microcaching
+---
 
 
 This is the second part of a post series. Please read the first one, if you haven't:   

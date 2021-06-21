@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-11-20T13:37:41Z
-description = ""
-draft = false
-url = "how-to-fix-python-errors-when-installing-modules"
-title = "How to fix python errors when installing modules"
-
-+++
+---
+author: Mansoor A
+date: "2015-11-20T13:37:41Z"
+description: ""
+draft: false
+title: How to fix python errors when installing modules
+url: how-to-fix-python-errors-when-installing-modules
+---
 
 
 This is a quick article showing how to fix common errors you might face when you install a python module using "pip" or by downloading and running "python setup.py install"

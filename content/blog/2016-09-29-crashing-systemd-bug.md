@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-09-29T00:07:00Z
-description = ""
-draft = false
-url = "crashing-systemd-bug"
-title = "Crashing systemd in one command by any user in the system"
-
-+++
+---
+author: Mansoor A
+date: "2016-09-29T00:07:00Z"
+description: ""
+draft: false
+title: Crashing systemd in one command by any user in the system
+url: crashing-systemd-bug
+---
 
 
 This post is in no way aimed at bashing systemd. It simply demonstrates a simple but crazy bug in systemd that could cause so much trouble for the sysadmins.

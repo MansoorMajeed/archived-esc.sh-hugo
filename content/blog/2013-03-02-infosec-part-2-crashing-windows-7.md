@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2013-03-02T07:39:00Z
-description = ""
-draft = false
-url = "infosec-part-2-crashing-windows-7"
-title = "InfoSec - Crashing A Windows 7 System Using Metasploit : MS10-006"
-
-+++
+---
+author: Mansoor A
+date: "2013-03-02T07:39:00Z"
+description: ""
+draft: false
+title: 'InfoSec - Crashing A Windows 7 System Using Metasploit : MS10-006'
+url: infosec-part-2-crashing-windows-7
+---
 
 
 Today I'll show you how to crash an unpatched Windows 7 machine, and how to protect yourselves from such attacks.

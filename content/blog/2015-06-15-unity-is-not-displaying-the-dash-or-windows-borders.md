@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-06-15T17:21:10Z
-description = ""
-draft = false
-url = "unity-is-not-displaying-the-dash-or-windows-borders"
-title = "Unity is not displaying the dash or window borders?"
-
-+++
+---
+author: Mansoor A
+date: "2015-06-15T17:21:10Z"
+description: ""
+draft: false
+title: Unity is not displaying the dash or window borders?
+url: unity-is-not-displaying-the-dash-or-windows-borders
+---
 
 
 This happens sometimes. Unity does not load at all. All you can see in your ubuntu desktop  wallpaper ( Ubuntu 14.04/15.04, or whatever version that is using unity). If you use any keyboard shortcuts to open up a window, like terminal, you won't see any window border. This happens because the unity plugin is not enabled in compiz. Fixing this is an easy task. Here is how you could fix it

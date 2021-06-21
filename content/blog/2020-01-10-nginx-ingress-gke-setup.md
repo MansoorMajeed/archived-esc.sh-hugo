@@ -1,15 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Kubernetes", "HomePage"]
-date = 2020-01-10T00:07:00Z
-description = ""
-draft = false
-url = "nginx-ingress-gke-setup"
-summary = "How to setup the Nginx ingress controller in Google Kubernetes Engine to have better control over the controller"
-tags = ["Kubernetes", "HomePage"]
-title = "Setting up Nginx Ingress in GKE"
-
-+++
+---
+author: Mansoor A
+categories:
+- Kubernetes
+- HomePage
+date: "2020-01-10T00:07:00Z"
+description: ""
+draft: false
+summary: How to setup the Nginx ingress controller in Google Kubernetes Engine to
+  have better control over the controller
+tags:
+- Kubernetes
+- HomePage
+title: Setting up Nginx Ingress in GKE
+url: nginx-ingress-gke-setup
+---
 
 
 Nginx Ingress Controller offers a lot more features than the default ingress controller by GKE. This post explains how to quickly setup an Nginx ingress controller on your K8s cluster running on GKE

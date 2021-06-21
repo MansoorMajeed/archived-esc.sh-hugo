@@ -1,16 +1,18 @@
-+++
-author = "Mansoor A"
-categories = ["Quick Notes"]
-date = 2020-03-29T14:11:33Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/03/git_res.png"
-url = "using-different-ssh-key-for-a-single-git-command"
-summary = "The correct way to use a specific SSH key for a single (or multiple if you wish) git command(s)"
-tags = ["Quick Notes"]
-title = "Using specific SSH key for a single Git command"
-
-+++
+---
+author: Mansoor A
+categories:
+- Quick Notes
+date: "2020-03-29T14:11:33Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/03/git_res.png
+summary: The correct way to use a specific SSH key for a single (or multiple if you
+  wish) git command(s)
+tags:
+- Quick Notes
+title: Using specific SSH key for a single Git command
+url: using-different-ssh-key-for-a-single-git-command
+---
 
 
 Sometimes we would like to use a specific SSH key for a git command, this is how to do so.

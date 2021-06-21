@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-09-06T17:55:21Z
-description = ""
-draft = false
-url = "how-to-set-up-the-sources-lst-on-kali-linux-2-0"
-title = "How to set up the sources.lst on Kali Linux 2.0"
-
-+++
+---
+author: Mansoor A
+date: "2015-09-06T17:55:21Z"
+description: ""
+draft: false
+title: How to set up the sources.lst on Kali Linux 2.0
+url: how-to-set-up-the-sources-lst-on-kali-linux-2-0
+---
 
 
 If during the installation of Kali Linux 2.0, you have chose to not use any network mirrors, chances are you  will be using a pretty basic version of the sources.lst file. For those of you don't know, sources.lst file determines the software repositories from where you can install packages using "apt". If you have a minimal version of "sources.lst", you won't be able to install many of the packages. For example, if you try to install "htop", you will get an error saying "package not found". Follow the instructions below to get a full sources.lst file

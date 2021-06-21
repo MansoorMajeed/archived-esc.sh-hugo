@@ -1,16 +1,20 @@
-+++
-author = "Mansoor A"
-categories = ["Quick Notes", "Ops"]
-date = 2020-04-19T09:27:56Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/04/iptables.png"
-url = "blocking-specific-dns-queries-using-iptables"
-summary = "A quick hack to block specific DNS queries like metadata.google.internal coming to a VPN server"
-tags = ["Quick Notes", "Ops"]
-title = "Blocking specific DNS queries in a VPN using iptables"
-
-+++
+---
+author: Mansoor A
+categories:
+- Quick Notes
+- Ops
+date: "2020-04-19T09:27:56Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/04/iptables.png
+summary: A quick hack to block specific DNS queries like metadata.google.internal
+  coming to a VPN server
+tags:
+- Quick Notes
+- Ops
+title: Blocking specific DNS queries in a VPN using iptables
+url: blocking-specific-dns-queries-using-iptables
+---
 
 
 ## Backstory

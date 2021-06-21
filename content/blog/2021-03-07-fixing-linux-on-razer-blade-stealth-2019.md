@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["Linux"]
-date = 2021-03-07T09:07:23Z
-description = ""
-draft = false
-url = "fixing-linux-on-razer-blade-stealth-2019"
-summary = "Linux on Razer Blade Stealth 2019 works great except for a few hiccups like suspend being broken. In this post, I explain how to fix it"
-tags = ["Linux"]
-title = "Fixing Linux on Razer Blade Stealth 2019"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+date: "2021-03-07T09:07:23Z"
+description: ""
+draft: false
+summary: Linux on Razer Blade Stealth 2019 works great except for a few hiccups like
+  suspend being broken. In this post, I explain how to fix it
+tags:
+- Linux
+title: Fixing Linux on Razer Blade Stealth 2019
+url: fixing-linux-on-razer-blade-stealth-2019
+---
 
 
 ## Problems

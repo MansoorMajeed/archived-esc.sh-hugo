@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-10-19T17:19:55Z
-description = ""
-draft = false
-url = "how-to-install-csf-on-ubuntu-1214-and-centos-67"
-title = "How to install CSF on Ubuntu 12/14, and Centos 6/7"
-
-+++
+---
+author: Mansoor A
+date: "2015-10-19T17:19:55Z"
+description: ""
+draft: false
+title: How to install CSF on Ubuntu 12/14, and Centos 6/7
+url: how-to-install-csf-on-ubuntu-1214-and-centos-67
+---
 
 
 CSF (ConfigServer Security and Firewall) is one of the best firewall/Intrusion detection-prevention tool out there for Linux. I myself use CSF on my server and it works just awesome. I don't have to worry about those bots trying to bruteforce my SSH, IMAP etc. CSF keeps all of them at the bay.

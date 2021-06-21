@@ -1,15 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Linux", "ThinkPad-E14"]
-date = 2021-03-06T04:10:28Z
-description = ""
-draft = false
-url = "thinkpad-e-14-fn-key"
-summary = "The function keys on the new ThinkPad E14 AMD does not work on Linux. It works only after a suspend"
-tags = ["Linux", "ThinkPad-E14"]
-title = "ThinkPad E-14 AMD Function Keys not working"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+- ThinkPad-E14
+date: "2021-03-06T04:10:28Z"
+description: ""
+draft: false
+summary: The function keys on the new ThinkPad E14 AMD does not work on Linux. It
+  works only after a suspend
+tags:
+- Linux
+- ThinkPad-E14
+title: ThinkPad E-14 AMD Function Keys not working
+url: thinkpad-e-14-fn-key
+---
 
 
 I recently got a ThinkPad E-14 Gen 2 with AMD Ryzen 5 and installed Ubuntu onto it only to realize that the function keys do not work at all. And I came to know that Lenovo does not certify the E series for Linux, so that was a bummer.

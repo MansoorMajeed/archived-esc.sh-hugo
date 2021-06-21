@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-11-10T18:48:33Z
-description = ""
-draft = false
-url = "install-software-center-on-kali-linux-2"
-title = "How to install Software Center on Kali Linux 2.0 Sana"
-
-+++
+---
+author: Mansoor A
+date: "2015-11-10T18:48:33Z"
+description: ""
+draft: false
+title: How to install Software Center on Kali Linux 2.0 Sana
+url: install-software-center-on-kali-linux-2
+---
 
 
 This is going to be a very quick tutorial on how to install the good old "Software Center"(the one we see in Ubuntu) in Kali Linux 2.0 ( Sana ). Some of you might ask, why the heck do we need a software center, well, admit it, not everyone knows their way around the command line. And if you're one of them, this post is for you.

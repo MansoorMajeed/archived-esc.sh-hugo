@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["Linux"]
-date = 2018-04-23T00:07:00Z
-description = ""
-draft = false
-url = "linux-on-lenovo-miix-320"
-summary = "Installing Linux on the tiny convertible budget laptop from Lenovo - The Miix 320"
-tags = ["Linux"]
-title = "Installing Ubuntu Linux on Lenovo Miix 320 Hybrid Laptop"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+date: "2018-04-23T00:07:00Z"
+description: ""
+draft: false
+summary: Installing Linux on the tiny convertible budget laptop from Lenovo - The
+  Miix 320
+tags:
+- Linux
+title: Installing Ubuntu Linux on Lenovo Miix 320 Hybrid Laptop
+url: linux-on-lenovo-miix-320
+---
 
 
 Lenovo Miix 320 is a tiny convertible laptop that doesn't put a hole in your wallet. It's an amazing piece of hardware with one major flaw - It comes with Windows 10. But, worry not, I was able to successfully install and use Ubuntu 18.04 on this tiny laptop, and it is pretty neat.

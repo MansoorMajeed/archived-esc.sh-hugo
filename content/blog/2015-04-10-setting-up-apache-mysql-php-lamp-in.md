@@ -1,12 +1,12 @@
-+++
-author = "Mansoor A"
-date = 2015-04-10T06:16:00Z
-description = ""
-draft = false
-url = "setting-up-apache-mysql-php-lamp-in"
-title = "Setting up Apache, MySQL, PHP ( LAMP) in Elementary OS, Ubuntu 14.04, 14.10, 15.04"
-
-+++
+---
+author: Mansoor A
+date: "2015-04-10T06:16:00Z"
+description: ""
+draft: false
+title: Setting up Apache, MySQL, PHP ( LAMP) in Elementary OS, Ubuntu 14.04, 14.10,
+  15.04
+url: setting-up-apache-mysql-php-lamp-in
+---
 
 
 I'm gonna jump right into the "how to" part, cuz I know you are not gonna read the rest of it.</p> 

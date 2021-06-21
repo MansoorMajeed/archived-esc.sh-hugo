@@ -1,16 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["SRE", "Ops"]
-date = 2020-04-25T06:53:55Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/04/git-http.png"
-url = "setting-up-a-git-http-server-with-nginx"
-summary = "How to easily setup a git http server using nginx and git-smart-http"
-tags = ["SRE", "Ops"]
-title = "Setting up a Git HTTP server with Nginx"
-
-+++
+---
+author: Mansoor A
+categories:
+- SRE
+- Ops
+date: "2020-04-25T06:53:55Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/04/git-http.png
+summary: How to easily setup a git http server using nginx and git-smart-http
+tags:
+- SRE
+- Ops
+title: Setting up a Git HTTP server with Nginx
+url: setting-up-a-git-http-server-with-nginx
+---
 
 
 Recently, I was in a situation where I had a few hundred clients reading from a git repository simultaneously. The default git over ssh was painfully for my use case and I started looking for git over http. This is how I was able to make it work with `Nginx` and `git-smart-http`

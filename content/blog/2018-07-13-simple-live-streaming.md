@@ -1,15 +1,16 @@
-+++
-author = "Mansoor A"
-categories = ["Linux"]
-date = 2018-07-13T00:07:00Z
-description = ""
-draft = false
-url = "simple-live-streaming"
-summary = "Setting up a private streaming server"
-tags = ["Linux"]
-title = "Live streaming in two commands"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+date: "2018-07-13T00:07:00Z"
+description: ""
+draft: false
+summary: Setting up a private streaming server
+tags:
+- Linux
+title: Live streaming in two commands
+url: simple-live-streaming
+---
 
 
 Setting up a private live streaming server doesn't sound that simple. But, it is dead simple.

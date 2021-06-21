@@ -1,14 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["HomePage", "Ops"]
-date = 2016-10-15T00:07:00Z
-description = ""
-draft = false
-url = "ssh-tunneling-made-simple"
-tags = ["HomePage", "Ops"]
-title = "[SSHUTTLE] SSH tunneling made simple"
-
-+++
+---
+author: Mansoor A
+categories:
+- HomePage
+- Ops
+date: "2016-10-15T00:07:00Z"
+description: ""
+draft: false
+tags:
+- HomePage
+- Ops
+title: '[SSHUTTLE] SSH tunneling made simple'
+url: ssh-tunneling-made-simple
+---
 
 
 ### Why SSH Tunnel?

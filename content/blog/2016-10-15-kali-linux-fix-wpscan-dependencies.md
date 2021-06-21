@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-10-15T00:07:00Z
-description = ""
-draft = false
-url = "kali-linux-fix-wpscan-dependencies"
-title = "[Kali Linux] Fixing Wpscan due to broken dependencies"
-
-+++
+---
+author: Mansoor A
+date: "2016-10-15T00:07:00Z"
+description: ""
+draft: false
+title: '[Kali Linux] Fixing Wpscan due to broken dependencies'
+url: kali-linux-fix-wpscan-dependencies
+---
 
 
 Let's keep it short and simple. You have a problem with Wpscan on your Kali Linux machine and you need to fix this thing and get to work.  

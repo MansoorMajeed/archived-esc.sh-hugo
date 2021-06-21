@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-01-10T23:04:28Z
-description = ""
-draft = false
-url = "lets-encrypt-cpanel-script"
-title = "[Script] How to set up Let's Encrypt in cPanel/WHM ( Centos 6.x / 7.x )"
-
-+++
+---
+author: Mansoor A
+date: "2016-01-10T23:04:28Z"
+description: ""
+draft: false
+title: '[Script] How to set up Let''s Encrypt in cPanel/WHM ( Centos 6.x / 7.x )'
+url: lets-encrypt-cpanel-script
+---
 
 
 Let's be quick and clear. If you're here, you don't need a preface for Let's Encrypt. You probably know how awesome it is. So today I'll show you guys how to quickly and easily setup let's encrypt in your cPanel server, and install SSL certificates for your domains with ease. Please note that you need a dedicated server/VPS for this. Shared hosting is not supported. So, let's get started

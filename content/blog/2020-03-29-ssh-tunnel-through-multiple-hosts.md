@@ -1,16 +1,20 @@
-+++
-author = "Mansoor A"
-categories = ["Ops", "HomePage"]
-date = 2020-03-29T09:26:46Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/03/ssh_res.png"
-url = "ssh-tunnel-through-multiple-hosts"
-summary = "Reaching databases behind firewall can be tricky. Here I am showing how to use the jumphost to tunnel to the database server"
-tags = ["Ops", "HomePage"]
-title = "Using SSH tunnel to reach a database server via JumpHost"
-
-+++
+---
+author: Mansoor A
+categories:
+- Ops
+- HomePage
+date: "2020-03-29T09:26:46Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/03/ssh_res.png
+summary: Reaching databases behind firewall can be tricky. Here I am showing how to
+  use the jumphost to tunnel to the database server
+tags:
+- Ops
+- HomePage
+title: Using SSH tunnel to reach a database server via JumpHost
+url: ssh-tunnel-through-multiple-hosts
+---
 
 
 Let's say you have a database server behind a firewall. Let it be a MySQL server at the host `mysql-server` at port number `3306`.

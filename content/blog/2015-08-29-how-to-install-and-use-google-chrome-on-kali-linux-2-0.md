@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-08-29T19:55:37Z
-description = ""
-draft = false
-url = "how-to-install-and-use-google-chrome-on-kali-linux-2-0"
-title = "How to install and use Google Chrome on Kali Linux 2.0"
-
-+++
+---
+author: Mansoor A
+date: "2015-08-29T19:55:37Z"
+description: ""
+draft: false
+title: How to install and use Google Chrome on Kali Linux 2.0
+url: how-to-install-and-use-google-chrome-on-kali-linux-2-0
+---
 
 
 Kali Linux 2.0 is here, which most of us love already. Also, we love Google Chrome, but these two ( Kali Linux 2.0 and Google chrome ) does not work well ( except when you do it right ). Today I will show you how to properly install google chrome on Kali Linux.

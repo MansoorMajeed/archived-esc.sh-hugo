@@ -1,16 +1,20 @@
-+++
-author = "Mansoor A"
-categories = ["Quick Notes", "Windows"]
-date = 2020-07-05T12:44:56Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/07/blog-wsl2-resolv.PNG"
-url = "wsl2-no-internet-vpn"
-summary = "Internet stopped working on WSL2 after the host is connected to a VPN (Wireguard in my case)"
-tags = ["Quick Notes", "Windows"]
-title = "No internet on WSL2 while on VPN (Wireguard)"
-
-+++
+---
+author: Mansoor A
+categories:
+- Quick Notes
+- Windows
+date: "2020-07-05T12:44:56Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/07/blog-wsl2-resolv.PNG
+summary: Internet stopped working on WSL2 after the host is connected to a VPN (Wireguard
+  in my case)
+tags:
+- Quick Notes
+- Windows
+title: No internet on WSL2 while on VPN (Wireguard)
+url: wsl2-no-internet-vpn
+---
 
 
 ```

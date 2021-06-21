@@ -1,16 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["Quick Notes", "Kubernetes"]
-date = 2020-09-04T07:41:30Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/09/k8s-logo-dark.png"
-url = "triggering-a-kubernetes-cronjob-manually"
-summary = "What to do when you want to trigger a Kubernetes cronjob manually, once"
-tags = ["Quick Notes", "Kubernetes"]
-title = "Triggering a Kubernetes Cronjob manually"
-
-+++
+---
+author: Mansoor A
+categories:
+- Quick Notes
+- Kubernetes
+date: "2020-09-04T07:41:30Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/09/k8s-logo-dark.png
+summary: What to do when you want to trigger a Kubernetes cronjob manually, once
+tags:
+- Quick Notes
+- Kubernetes
+title: Triggering a Kubernetes Cronjob manually
+url: triggering-a-kubernetes-cronjob-manually
+---
 
 
 Sometimes you may need to quickly trigger a kubernetes cronjob and the next interval of execution is pretty far. This is how you could do it.

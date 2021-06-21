@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-08-02T11:23:37Z
-description = ""
-draft = false
-url = "unlock-bootloader-moto-ubuntu-mint"
-title = "How to unlock bootloader of Motorola Devices Using Ubuntu/Linux Mint"
-
-+++
+---
+author: Mansoor A
+date: "2015-08-02T11:23:37Z"
+description: ""
+draft: false
+title: How to unlock bootloader of Motorola Devices Using Ubuntu/Linux Mint
+url: unlock-bootloader-moto-ubuntu-mint
+---
 
 
 Bootloader is the code that boots up your phone's operating system. In order for you to use custom operating systems ( or as said in case of Android devices - custom ROMs ) you need to have an unlocked bootloader. Why? Well, because your phone's manufacture has locked down your phone so that no operating system other than that are signed by the manufacture can be loaded.

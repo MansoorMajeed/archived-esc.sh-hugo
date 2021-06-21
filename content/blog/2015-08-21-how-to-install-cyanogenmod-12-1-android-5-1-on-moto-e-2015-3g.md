@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-08-21T17:52:51Z
-description = ""
-draft = false
-url = "how-to-install-cyanogenmod-12-1-android-5-1-on-moto-e-2015-3g"
-title = "How to install Cyanogenmod 12.1 (Android 5.1) on Moto E 2015 3G"
-
-+++
+---
+author: Mansoor A
+date: "2015-08-21T17:52:51Z"
+description: ""
+draft: false
+title: How to install Cyanogenmod 12.1 (Android 5.1) on Moto E 2015 3G
+url: how-to-install-cyanogenmod-12-1-android-5-1-on-moto-e-2015-3g
+---
 
 
 If you're reading this, that probably means you know what Cyanogenmod is and you want to install it in your Moto E. There is no point in writing something up about CM and how great it is, which you're not gonna read anyway. So, let's get started.

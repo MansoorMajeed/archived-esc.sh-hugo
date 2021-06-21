@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-05-28T20:57:40Z
-description = ""
-draft = false
-url = "fix-yum-stuck-centos-fedora"
-title = "Fix YUM getting stuck - Centos 6/7"
-
-+++
+---
+author: Mansoor A
+date: "2016-05-28T20:57:40Z"
+description: ""
+draft: false
+title: Fix YUM getting stuck - Centos 6/7
+url: fix-yum-stuck-centos-fedora
+---
 
 
 Some times it happens.  You were trying to install something and Yum gets stuck. No error messages,

@@ -1,15 +1,19 @@
-+++
-author = "Mansoor A"
-categories = ["HowTo", "HomePage"]
-date = 2018-02-16T00:07:00Z
-description = ""
-draft = false
-url = "migrating-authenticator"
-summary = "Moving all your 2FA codes from an authenticator app to another (only for rooted android devices)"
-tags = ["HowTo", "HomePage"]
-title = "Migrating the Authenticator app to a new device"
-
-+++
+---
+author: Mansoor A
+categories:
+- HowTo
+- HomePage
+date: "2018-02-16T00:07:00Z"
+description: ""
+draft: false
+summary: Moving all your 2FA codes from an authenticator app to another (only for
+  rooted android devices)
+tags:
+- HowTo
+- HomePage
+title: Migrating the Authenticator app to a new device
+url: migrating-authenticator
+---
 
 
 > Note: For this to work, your source phone has to be a rooted Android device

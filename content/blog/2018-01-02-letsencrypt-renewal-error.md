@@ -1,15 +1,17 @@
-+++
-author = "Mansoor A"
-categories = ["Ops"]
-date = 2018-01-02T00:07:00Z
-description = ""
-draft = false
-url = "letsencrypt-renewal-error"
-summary = "Allowing Let'sEncrypt to do the HTTP validation while enforcing HTTP to HTTPS redirection"
-tags = ["Ops"]
-title = "Fixing Letsencrypt renewal errors on SSL only domains"
-
-+++
+---
+author: Mansoor A
+categories:
+- Ops
+date: "2018-01-02T00:07:00Z"
+description: ""
+draft: false
+summary: Allowing Let'sEncrypt to do the HTTP validation while enforcing HTTP to HTTPS
+  redirection
+tags:
+- Ops
+title: Fixing Letsencrypt renewal errors on SSL only domains
+url: letsencrypt-renewal-error
+---
 
 
 ### The Problem

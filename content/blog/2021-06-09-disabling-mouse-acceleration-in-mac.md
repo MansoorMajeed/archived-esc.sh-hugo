@@ -1,13 +1,12 @@
-+++
-author = "Mansoor A"
-date = 2021-06-09T06:02:14Z
-description = ""
-draft = false
-url = "disabling-mouse-acceleration-in-mac"
-summary = "How to disable mouse acceleration in MacOS "
-title = "Disabling Mouse Acceleration in MacOS"
-
-+++
+---
+author: Mansoor A
+date: "2021-06-09T06:02:14Z"
+description: ""
+draft: false
+summary: 'How to disable mouse acceleration in MacOS '
+title: Disabling Mouse Acceleration in MacOS
+url: disabling-mouse-acceleration-in-mac
+---
 
 
 Open a terminal and run

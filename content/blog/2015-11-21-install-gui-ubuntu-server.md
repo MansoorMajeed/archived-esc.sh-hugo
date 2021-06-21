@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-11-21T17:22:00Z
-description = ""
-draft = false
-url = "install-gui-ubuntu-server"
-title = "How to install GUI (X-Server) on Ubuntu Server"
-
-+++
+---
+author: Mansoor A
+date: "2015-11-21T17:22:00Z"
+description: ""
+draft: false
+title: How to install GUI (X-Server) on Ubuntu Server
+url: install-gui-ubuntu-server
+---
 
 
 The thing about Linux servers is that, they don't come with a GUI for obvious reasons, including but not limited to "to conserve resource usage". I mean, you don't want your X server to be eating up all your RAM and CPU, do you?

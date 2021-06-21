@@ -1,14 +1,13 @@
-+++
-author = "Mansoor A"
-date = 2020-09-27T09:29:12Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/09/nginx_jenkinst.png"
-url = "jenkins-nginx-ssl"
-summary = "Setting up a Jenkins server with Nginx Reverse Proxy and SSL"
-title = "Setting up Jenkins with Nginx reverse proxy and SSL - Debian"
-
-+++
+---
+author: Mansoor A
+date: "2020-09-27T09:29:12Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/09/nginx_jenkinst.png
+summary: Setting up a Jenkins server with Nginx Reverse Proxy and SSL
+title: Setting up Jenkins with Nginx reverse proxy and SSL - Debian
+url: jenkins-nginx-ssl
+---
 
 
 ## Goals

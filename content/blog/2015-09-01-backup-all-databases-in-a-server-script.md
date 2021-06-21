@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-09-01T19:51:39Z
-description = ""
-draft = false
-url = "backup-all-databases-in-a-server-script"
-title = "How To Backup All Databases in MySQL [ Script ]"
-
-+++
+---
+author: Mansoor A
+date: "2015-09-01T19:51:39Z"
+description: ""
+draft: false
+title: How To Backup All Databases in MySQL [ Script ]
+url: backup-all-databases-in-a-server-script
+---
 
 
 Hello Guys,

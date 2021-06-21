@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-06-11T11:07:00Z
-description = ""
-draft = false
-url = "roundcube-connection-storage-failed"
-title = "Fix 'Roundcube - Connection to storage server failed' error"
-
-+++
+---
+author: Mansoor A
+date: "2016-06-11T11:07:00Z"
+description: ""
+draft: false
+title: Fix 'Roundcube - Connection to storage server failed' error
+url: roundcube-connection-storage-failed
+---
 
 
 This is going to be a very short post. I faced this issue on a Plesk server. All of a sudden ( it was after a reboot ), Roundcube stopped working. No matter what you do, this is the error you get

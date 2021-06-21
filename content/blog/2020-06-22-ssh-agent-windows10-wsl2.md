@@ -1,16 +1,20 @@
-+++
-author = "Mansoor A"
-categories = ["Linux", "Windows"]
-date = 2020-06-22T06:49:38Z
-description = ""
-draft = false
-image = "https://cdn.esc.sh/2020/06/blog-ssh-agent-1.PNG"
-url = "ssh-agent-windows10-wsl2"
-summary = "How to get your ssh-agent to persist between terminal sessions - the reliable way"
-tags = ["Linux", "Windows"]
-title = "Using SSH-Agent the right way in Windows 10 WSL2"
-
-+++
+---
+author: Mansoor A
+categories:
+- Linux
+- Windows
+date: "2020-06-22T06:49:38Z"
+description: ""
+draft: false
+image: https://cdn.esc.sh/2020/06/blog-ssh-agent-1.PNG
+summary: How to get your ssh-agent to persist between terminal sessions - the reliable
+  way
+tags:
+- Linux
+- Windows
+title: Using SSH-Agent the right way in Windows 10 WSL2
+url: ssh-agent-windows10-wsl2
+---
 
 
 # The Problem

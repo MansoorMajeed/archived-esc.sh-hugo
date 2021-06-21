@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2014-10-11T18:16:00Z
-description = ""
-draft = false
-url = "how-to-install-and-use-tor-in-centos-7-2"
-title = "How To install and use tor in centos 7"
-
-+++
+---
+author: Mansoor A
+date: "2014-10-11T18:16:00Z"
+description: ""
+draft: false
+title: How To install and use tor in centos 7
+url: how-to-install-and-use-tor-in-centos-7-2
+---
 
 
 > Note: This is an old post. 

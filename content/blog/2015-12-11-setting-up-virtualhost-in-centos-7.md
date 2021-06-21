@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2015-12-11T23:32:44Z
-description = ""
-draft = false
-url = "setting-up-virtualhost-in-centos-7"
-title = "Setting up VirtualHost in Centos 7"
-
-+++
+---
+author: Mansoor A
+date: "2015-12-11T23:32:44Z"
+description: ""
+draft: false
+title: Setting up VirtualHost in Centos 7
+url: setting-up-virtualhost-in-centos-7
+---
 
 
 This is gonna be a quick and dirty post about how to properly setup VirtualHost in Centos 7. I mainly made this as part of the Let's encrypt setup. So, yeah let's get started

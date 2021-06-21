@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2014-10-11T10:18:00Z
-description = ""
-draft = false
-url = "how-to-create-new-normal-user-with-sudo"
-title = "How to create a new normal user with sudo permission in Kali Linux"
-
-+++
+---
+author: Mansoor A
+date: "2014-10-11T10:18:00Z"
+description: ""
+draft: false
+title: How to create a new normal user with sudo permission in Kali Linux
+url: how-to-create-new-normal-user-with-sudo
+---
 
 
 Kali Linux, the pentester's Linux does not need an introduction. Today, I'll show you how to create a normal user under Kali Linux. You might ask, Why would someone want to create a normal/standard user in Kali? What's wrong with root only? Well, simply saying, being `root` all the time is not so good. Some applications won't work in root. (Google chrome won't work in root by default). If you want to use Kali as a day to day operating system, I'd suggest you to create a standard user and use it. If you want to do pentesting and stuff, you could 'sudo' or just log in as root.

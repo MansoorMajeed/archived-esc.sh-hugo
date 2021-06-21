@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2016-07-22T11:07:00Z
-description = ""
-draft = false
-url = "markdown-editor-mac"
-title = "Best Markdown editor for Mac"
-
-+++
+---
+author: Mansoor A
+date: "2016-07-22T11:07:00Z"
+description: ""
+draft: false
+title: Best Markdown editor for Mac
+url: markdown-editor-mac
+---
 
 
 I started using Markdown very recently - when I moved my blog from Wordpress to Jekyll. At first it seemed difficult, but once I got used to it, there was no going back.  At first, I used Sublime Text to write Markdown. It was kind of OK, but there was something missing. I eventually used Atom and Visual Studio Code too. They both worked pretty good, as far as features are concerned.  

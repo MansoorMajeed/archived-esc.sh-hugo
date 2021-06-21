@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2020-06-26T17:55:07Z
-description = ""
-draft = true
-url = "installing-chromeos-on-windows-lenovo-miix-320"
-title = "Installing ChromeOS on Windows (Lenovo Miix 320)"
-
-+++
+---
+author: Mansoor A
+date: "2020-06-26T17:55:07Z"
+description: ""
+draft: true
+title: Installing ChromeOS on Windows (Lenovo Miix 320)
+url: installing-chromeos-on-windows-lenovo-miix-320
+---
 
 
 

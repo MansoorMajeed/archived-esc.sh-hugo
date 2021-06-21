@@ -1,12 +1,11 @@
-+++
-author = "Mansoor A"
-date = 2012-10-01T17:19:00Z
-description = ""
-draft = false
-url = "how-to-install-redhat-linux-on"
-title = "How to install Redhat Linux on Virtualbox"
-
-+++
+---
+author: Mansoor A
+date: "2012-10-01T17:19:00Z"
+description: ""
+draft: false
+title: How to install Redhat Linux on Virtualbox
+url: how-to-install-redhat-linux-on
+---
 
 
 > Note : This blog post is pretty old and I'm showing you how to install Redhat Enterprise Linux 6
