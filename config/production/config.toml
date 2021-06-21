@@ -1,4 +1,4 @@
 baseurl = "https://esc.sh/"
-disqusShortname = "digitz"
+
 canonifyURLs = true
 
