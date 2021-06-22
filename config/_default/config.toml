@@ -1,5 +1,5 @@
-baseurl = "/"
-canonifyURLs = false
+baseURL = "https://esc.sh"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true

@@ -1,2 +1,2 @@
-baseurl = "https://esc.sh/"
+baseURL = "https://esc.sh"
 canonifyURLs = true
