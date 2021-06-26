@@ -1,4 +1,5 @@
 functions
+.DS_Store
 node_modules
 public
 resources
