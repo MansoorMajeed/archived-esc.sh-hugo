@@ -149,8 +149,9 @@ We will be using Let's Encrypt for free SSL certificates, also we will be redire
 When we do that, we still want the let's encrypt challenges that happen over http to continue to work
 without getting redirected. So, we use the following snippet
 
-Create `/etc/nginx/snippets/letsencrypt.conf with the following content
-```
+Create `/etc/nginx/snippets/letsencrypt.conf` with the following content
+
+```nginx
 location ^~ /.well-known/acme-challenge/ {
     default_type "text/plain";
     root /var/www/letsencrypt;
@@ -158,14 +159,13 @@ location ^~ /.well-known/acme-challenge/ {
 ```
 
 Now, create the directory
-```
+```bash
 sudo mkdir /var/www/letsencrypt
 ```
 
-
 Create nginx config `/etc/nginx/sites-enabled/stats.esc.sh`
 
-```
+```nginx
 server {
     listen 80;
 
@@ -178,7 +178,7 @@ server {
 > Make sure to update it to use your own domain name
 
 Verify that Nginx is working fine and restart it
-```
+```bash
 sudo nginx -t
 sudo systemctl restart nginx
 ```
@@ -186,7 +186,7 @@ sudo systemctl restart nginx
 ### Fetch the TLS certificates
 
 Now we can request for certificates using:
-```
+```bash
 sudo certbot --nginx -d stats.yourdomain.com
 ```
 This should show a few prompts
@@ -197,7 +197,7 @@ This should show a few prompts
 
 At this point certbot would have updated the nginx configuration.. should look like this
 
-```
+```nginx
 server {
     listen 80;
 
@@ -219,7 +219,7 @@ Now, we need to enable http -> https redirection. Also, we need to add the proxy
 
 Make changes to look like this. Make sure to use your own domain name
 
-```
+```nginx
 server {
     listen 80;
 
@@ -230,7 +230,6 @@ server {
     location / {
        return 301 https://$host$request_uri;
     }
-
 }
 
 server {
@@ -257,7 +256,7 @@ Login at https://stats.domain.com with the username and password from the config
 
 It will ask to activate the account, we can do this manually.
 
-```
+```bash
 sudo docker exec plausible_plausible_db_1 psql -U postgres -d plausible_db -c "UPDATE users SET email_verified = true;"
 ```
 
