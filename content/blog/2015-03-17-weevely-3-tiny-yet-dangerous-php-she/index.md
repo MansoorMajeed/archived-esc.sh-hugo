@@ -81,8 +81,7 @@ Now we have our backdoor. The next step is to upload it to the web server.
 
 For this to work, you need a place where you can upload any files ( since you are testing it in your own workstation, that shouldn't be  a problem. 😉 )
 
-
- ![Php uploader](https://cdn.esc.sh/jekyll/posts/weevely/php_uploader.jpg)
+{{< img src="php_uploader.jpeg" alt="php uploader" caption="<em>Php uploader</em>" class="border-0" >}}
 
 Here, check it out. I have an upload form and I have uploaded the generated backdoor ( shell.php ) to the server using this upload form.
 
@@ -109,13 +108,12 @@ $ ./weevely http://192.168.1.102/wordpress/hackme/shell.php noob
 As soon as you issue the above command, you will get access to a shell in the server.
 
 
- ![Shell](https://cdn.esc.sh/jekyll/posts/weevely/shell.jpg)
+{{< img src="shell.jpeg" alt="Shell" caption="<em>Shell</em>" class="border-0" >}}
 
 
 Type any command like "ls" and you can see that you are using the shell in the server. But, hey, remember one thing, you got a shell in the server, but you are not root ( yet ). You don't have administrative privileges, but you can manipulate the contents in the document root of apache, which is pretty nice.
 
- ![Shell](https://cdn.esc.sh/jekyll/posts/weevely/shell_1.jpg)
-
+{{< img src="shell_1.jpeg" alt="Shell" caption="<em>shell</em>" class="border-0" >}}
 
 So, this is it. Hope you guys enjoyed this post. Keep one thing in mind, please don't do any of these on anything that you do not own. Thank you.!
 

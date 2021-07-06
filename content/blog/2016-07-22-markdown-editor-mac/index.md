@@ -16,7 +16,8 @@ But seriously, this one is good. Pretty good actually. Better than any other Mar
 
 This is a screenshot of the app.
 
-![Macdown](https://cdn.esc.sh/jekyll/other/macdown.png)
+{{< img src="macdown.png" alt="Macdown editor" caption="<em>Macdown editor</em>" class="border-0" >}}
+
 
 Go on and give it a try, [HERE](http://macdown.uranusjr.com/)
 
