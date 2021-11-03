@@ -7,7 +7,7 @@ draft: false
 images: []
 url: blog/plausible-analytics-selfhosting
 ---
-I have been trying to get rid of Google analytics and use a self hosted solution instead and I finally
+I've been trying to get rid of Google analytics and use a self hosted solution instead and I finally
 found a worthy replacement - [Plausible](https://plausible.io/). Simple, fast, and clean UI.
 
 What I did was, I signed up for their free trial and after using it for few days, I really liked it and wanted
