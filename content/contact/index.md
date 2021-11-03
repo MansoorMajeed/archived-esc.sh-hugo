@@ -7,4 +7,4 @@ lastmod: "2020-08-27T19:25:12+02:00"
 title: Contact
 ---
 
-{{< email user="m" domain="esc.sh" >}}
+m@esc.sh
