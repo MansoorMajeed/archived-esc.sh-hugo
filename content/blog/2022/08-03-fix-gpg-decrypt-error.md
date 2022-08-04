@@ -1,6 +1,7 @@
 ---
 title: "Fix Gpg Decrypt Error : Inappropriate ioctl for device"
 description: ""
+author: Mansoor
 date: 2022-08-03T22:32:37-04:00
 lastmod: 2022-08-03T22:32:37-04:00
 draft: false

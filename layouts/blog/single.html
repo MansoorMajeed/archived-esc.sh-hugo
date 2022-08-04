@@ -21,6 +21,13 @@
       <div class="blog-header">
         <h1>{{ .Title }}</h1>
         {{ partial "main/blog-meta.html" . }}
+
+        <!-- https://github.com/MansoorMajeed/esc.sh-hugo/edit/master/content/blog/2012-10-01-how-to-install-redhat-linux-on.md -->
+
+        {{ with .File.Path }}
+          <a href="https://github.com/MansoorMajeed/esc.sh-hugo/edit/master/content/{{ . }}">&#9999; Improve this page</a>
+        {{ end }}
+        
       </div>
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
       {{ .Content }}
