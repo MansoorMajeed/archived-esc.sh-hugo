@@ -26,3 +26,5 @@ This happens because GPG does not know where to read the input from, simply set 
 ```
 export GPG_TTY=$(tty)
 ```
+
+If you use GPG more often and if you would like to persist this environment variable, append it to your `~/.zshrc` or `~/.bashrc`
