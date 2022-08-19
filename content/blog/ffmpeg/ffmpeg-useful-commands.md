@@ -1,5 +1,5 @@
 ---
-title: "Ffmpeg Useful Commands"
+title: "FFmpeg Quick Reference"
 description: ""
 lead: ""
 url: blog/ffmpeg-cheatsheet
