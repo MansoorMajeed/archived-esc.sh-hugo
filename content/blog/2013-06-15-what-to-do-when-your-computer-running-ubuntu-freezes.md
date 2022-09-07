@@ -8,7 +8,8 @@ url: blog/what-to-do-when-your-computer-running-ubuntu-freezes
 ---
 
 > Note: This is almost 10 years old post, but the steps are still the same. 
-> Even though the post is for "Ubuntu", it should work for anything, like Linux Mint, PopOS! etc
+> Even though the post is for "Ubuntu", it should work for anything, like Linux Mint, PopOS! etc. 
+> 
 > I often mention to use `Ctrl+Alt+T` to bring up the terminal, it may or may not work based on the Linux distro you
 > are using. So, if it does not work, look for your distro specific keyboard shortcut to bring up
 > a terminal window
