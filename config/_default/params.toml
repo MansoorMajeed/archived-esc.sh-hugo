@@ -3,8 +3,9 @@
 ## Homepage
 title = "Esc.sh"
 #titleSeparator = "-"
-titleAddition = "Mansoor A"
 description = "A collection of random notes from an Engineer"
+
+AuthorName = 'Mansoor'
 
 ## Open Graph + Twitter Cards
 #images = ["doks.png"]
