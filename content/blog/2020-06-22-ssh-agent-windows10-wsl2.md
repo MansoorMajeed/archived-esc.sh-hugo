@@ -12,7 +12,7 @@ summary: How to get your ssh-agent to persist between terminal sessions - the re
 tags:
 - Linux
 - Windows
-title: Using SSH-Agent the right way in Windows 10 WSL2
+title: Using SSH-Agent the right way in Windows 10/11 WSL2
 url: blog/ssh-agent-windows10-wsl2
 ---
 
