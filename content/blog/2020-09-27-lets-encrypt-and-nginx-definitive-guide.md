@@ -33,6 +33,16 @@ For this tutorial, I will be using a Debian 10 server. This should work for any 
     - Redirect non-www to www without http to https redirection
     - Redirect non-www to www with http to https redirection
 
+> A note about affiliates
+> 
+> I don't run ads on this website as I personally don't like them.
+> I use DigitalOcean for my projects and I highly recommend them, if you are looking for an 
+> affordable cloud provider, it would be awesome if you use my referral, you will get $200 in credit over 60 days
+> and it will help me out a little bit
+
+<p align="center">
+<a href="https://www.digitalocean.com/?refcode=b63c500f6bcd&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+</p>
 
 ## Prerequisites
 
