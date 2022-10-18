@@ -1,3 +1,4 @@
+
 ---
 title: "Slack Login Not Working in Kde Plasma"
 date: 2022-08-20T22:12:18-04:00
@@ -25,7 +26,7 @@ replace the workspace id with the upper case version of the same
 
 Open a terminal and run
 ```bash
-while true; do ps aux|grep [s]lack | grep magic ; sleep 1; done
+while true; do ps aux|grep '[s]lack' | grep magic ; sleep 1; done
 ```
 
 2. Open slack and try to login. Open the login page in the browser and continue until you see something in the terminal.
@@ -41,9 +42,8 @@ mansoor     8504  0.0  0.2 34034340 52936 ?      Sl   12:40   0:00 /usr/lib/slac
 
 Like this:
 ```
-/usr/lib/slack/slack --enable-crashpad slack://WORKSPACE_ID_UPPERCASE/magic-login/<the same string from the previous command>
+slack --enable-crashpad slack://WORKSPACE_ID_UPPERCASE/magic-login/<the same string from the previous command>
 ```
-
 
 
 That's it, it should log you into slack this time
