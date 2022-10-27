@@ -27,7 +27,7 @@ A computer with Python 3, pip and git installed
 ## How to make the switch
 
 1. Make an encrypted backup of your andOTP accounts and transfer the file to your computer
-2. Clone the repository: `git clone [https://github.com/asmw/andOTP-decrypt.git](https://github.com/asmw/andOTP-decrypt.git)`
+2. Clone the repository: `git clone https://github.com/asmw/andOTP-decrypt.git`
 3. `cd andOTP-decrypt`
 4. `pip3 install -r requirements.txt`
 5. `./generate_qr_codes.py <location to the andOTP backup file>` This will ask you to enter the password for the encrypted file
