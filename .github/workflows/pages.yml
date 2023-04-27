@@ -40,9 +40,12 @@ jobs:
         uses: actions/checkout@v3
         with:
           submodules: recursive
+      - name: Remove installed nodejs
+        run: |
+          sudo apt-get purge nodejs -y
       - name: Install Nodejs 16
         run: |
-          curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - && sudo apt install nodejs -y
+          curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash - && sudo apt-get install nodejs -y
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v1
