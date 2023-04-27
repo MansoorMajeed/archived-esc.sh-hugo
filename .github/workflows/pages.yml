@@ -31,6 +31,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.111.3
+      NODE_OPTIONS: --openssl-legacy-provider
     steps:
       - name: Install Hugo CLI
         run: |
@@ -45,7 +46,7 @@ jobs:
         uses: actions/configure-pages@v1
       - name: Build with Hugo
         run: |
-          NODE_OPTIONS=--openssl-legacy-provider npm install && npm run build
+           npm install && npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
