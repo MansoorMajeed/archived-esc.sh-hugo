@@ -43,7 +43,7 @@
     "@fullhuman/postcss-purgecss": "^4.0",
     "@hyas/doks": "^0.5",
     "autoprefixer": "^10.4",
-    "bootstrap": "^5.0.0-beta3",
+    "bootstrap": "^5.2.3",
     "clipboard": "^2.0",
     "eslint": "^8.39",
     "flexsearch": "^0.7",
