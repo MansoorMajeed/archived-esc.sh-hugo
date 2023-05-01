@@ -16,7 +16,7 @@ But seriously, this one is good. Pretty good actually. Better than any other Mar
 
 This is a screenshot of the app.
 
-{{< img src="macdown.png" alt="Macdown editor" caption="<em>Macdown editor</em>" class="border-0" >}}
+{{< figure src="macdown.png" alt="Macdown editor" caption="<em>Macdown editor</em>" class="border-0" >}}
 
 
 Go on and give it a try, [HERE](http://macdown.uranusjr.com/)

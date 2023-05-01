@@ -80,7 +80,7 @@ Before continuing, verify the record is deployed.
 Copy the TXT record and add it in your domain's DNS. I am using Cloudflare for DNS
 so I have added it like this
 
-{{< img src="cloudflare-txt.png" alt="DNS TXT record" caption="<em>TXT Record</em>" class="border-0" >}}
+{{< figure src="cloudflare-txt.png" alt="DNS TXT record" caption="<em>TXT Record</em>" class="border-0" >}}
 
 And in `dig` it should show up like this
 

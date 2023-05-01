@@ -24,7 +24,7 @@ This blog post is about how to do that in apple mail client (in MacOS and iOS)
 > Note: I am assuming that your mail provider actually supports this "Catch all" and you are
 > actually allowed to send from any name under your `@yourdomain.com`
 
-{{< img src="apple-mail-mac-com.png" class="border-0">}}
+{{< figure src="apple-mail-mac-com.png" class="border-0">}}
 
 Now, you should be able to choose the "From" address when you are replying to an email
 or composing a new email.
