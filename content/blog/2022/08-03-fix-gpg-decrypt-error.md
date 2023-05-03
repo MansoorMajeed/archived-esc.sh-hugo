@@ -14,7 +14,7 @@ images: []
 When you try to decrypt something using gpg and if gpg is reading the input from a pipe, like this `echo "something encrypted" | gpg --decrypt`, it fails with the
 following error
 
-```
+```text
 gpg: public key decryption failed: Inappropriate ioctl for device
 gpg: decryption failed: Inappropriate ioctl for device
 ```
@@ -23,7 +23,7 @@ gpg: decryption failed: Inappropriate ioctl for device
 
 This happens because GPG does not know where to read the input from, simply set the env variable `GPG_TTY`.
 
-```
+```text
 export GPG_TTY=$(tty)
 ```
 
