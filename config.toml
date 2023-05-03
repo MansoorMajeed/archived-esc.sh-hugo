@@ -32,6 +32,10 @@ style = "github-dark"
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
+[params.goatCounter]
+code = "esc"
+
+
 [taxonomies]
   category = "categories"
   series = "series"
