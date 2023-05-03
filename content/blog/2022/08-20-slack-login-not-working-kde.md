@@ -33,7 +33,7 @@ while true; do ps aux|grep '[s]lack' | grep magic ; sleep 1; done
 
 It should look something like this
 
-```
+```text
 [mansoor@fedora ~]$ while true; do ps aux|grep [s]lack | grep magic ; sleep 1; done
 mansoor     8504  0.0  0.2 34034340 52936 ?      Sl   12:40   0:00 /usr/lib/slack/slack --enable-crashpad slack://<your workspace id in small letters>/magic-login/<some long string>
 ```
@@ -41,7 +41,7 @@ mansoor     8504  0.0  0.2 34034340 52936 ?      Sl   12:40   0:00 /usr/lib/slac
 3. Get the workspace ID, convert it into upper case, replace it into the same command, run it.
 
 Like this:
-```
+```text
 slack --enable-crashpad slack://WORKSPACE_ID_UPPERCASE/magic-login/<the same string from the previous command>
 ```
 

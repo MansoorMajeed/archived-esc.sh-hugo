@@ -37,7 +37,7 @@ Well simply put, a database is a collection of data that is organized in  such 
 For example, let's say you are a teacher and you want to collect information about the grades of your students for different subjects. Now, what is the best way to store this information? a database. Take a look at the following image.
 
 
-{{< img src="table.png" alt="Table" caption="<em>Table</em>" class="border-0" >}}
+{{< figure src="table.png" alt="Table" caption="<em>Table</em>" class="border-0" >}}
 
 
 This is an Excel sheet. This is identical to a database in structure. 
@@ -48,7 +48,7 @@ A database contains tables. Each table can contain a number of columns,
 and we store information in these tables. Now check the below image, 
 this is from a table inside a database. It looks almost similar to the above calc sheet, doesn't it?
 
-{{< img src="database_marks.png" alt="Marks" caption="<em>Marks table</em>" class="border-0" >}}
+{{< figure src="database_marks.png" alt="Marks" caption="<em>Marks table</em>" class="border-0" >}}
 
 
 I think you got an idea about "what is a database".
@@ -162,11 +162,11 @@ INSERT INTO users (id, username, password) VALUES ('1', 'admin', 'awesomepasswor
 What did we do? Well we added a user `admin` with password `awesomepassword`. Now, this user is allowed to log in if he enters the correct password.
 This is how our users table looks now.
 
-{{< img src="users_table.png" alt="User table" caption="<em>User table</em>" class="border-0" >}}
+{{< figure src="users_table.png" alt="User table" caption="<em>User table</em>" class="border-0" >}}
 
 That's it. We have everything we need. Now, load the page `http://<your ip>/index.php` in your browser and you should see the login page like below.
 
-{{< img src="login_page.png" alt="Login Page" caption="<em>Login Page</em>" class="border-0" >}}
+{{< figure src="login_page.png" alt="Login Page" caption="<em>Login Page</em>" class="border-0" >}}
 
 Now, go ahead and login using the username `admin` and the password `awesomepassword`. If you entered the correct username and password, you will be shown a "login successful" message. If the username or password is invalid, you will be shown "Login Failed. Invalid username or password". Now, this is how it should work, normally. But, we're going to break it and we will be able to login without  a password.
 
@@ -200,7 +200,7 @@ aaa' or  '1=1
 ```
 You can replace that `aaa` with whatever you want. But make sure that you have the single quotes correct. Don't put any quotes at the end, just do it as in the screenshot.
 
-{{< img src="sqli.png" alt="SQLi" caption="<em>Injecting SQL</em>" class="border-0" >}}
+{{< figure src="sqli.png" alt="SQLi" caption="<em>Injecting SQL</em>" class="border-0" >}}
 
 Click sign in, and BAM!! We're in. We have logged in without a valid password, by injecting SQL queries of our own, into the web application.
 

@@ -13,7 +13,7 @@ url: blog/local-development-on-kubernetes-using-skaffold/
 
 It's like docker compose, but with just Kubernetes.
 
-<div style="padding:67.88% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/756884582?h=62ad1e7e03&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="skaffold-poc-2"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{< vimeo 756884582 >}}
 
 ## What can I use it for?
 
@@ -35,7 +35,7 @@ This is the only installation you need.
 Go [HERE](https://skaffold.dev/docs/install/) and install the tool following instructions specific to your local operating system.
 
 For MacOS, you can install it using
-```
+```shell
 brew install skaffold
 ```
 
@@ -69,7 +69,7 @@ This is completely optional. If you want to start from scratch, you can run `ska
 
 It would be much easier to just clone it and modify it to your needs, or just to get a feel of how things work for the first time.
 
-```
+```shell
 git clone https://github.com/MansoorMajeed/skaffold-poc.git
 ```
 
@@ -87,7 +87,7 @@ git clone https://github.com/MansoorMajeed/skaffold-poc.git
 There are a few different ways you can run it.
 
 #### Running it once (no reload)
-```
+```bash
 skaffold run --kube-context docker-desktop
 ```
 This will run the whole stack.
@@ -99,7 +99,7 @@ The `--kube-context` argument is specified so that we are forcing skaffold to ru
 
 This is my favourite mode.
 
-```
+```bash
 skaffold dev --kube-context docker-desktop --port-forward
 ```
 
