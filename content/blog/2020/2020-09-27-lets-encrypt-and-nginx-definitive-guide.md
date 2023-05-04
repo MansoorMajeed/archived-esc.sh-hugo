@@ -33,17 +33,6 @@ For this tutorial, I will be using a Debian 10 server. This should work for any 
     - Redirect non-www to www without http to https redirection
     - Redirect non-www to www with http to https redirection
 
-> A note about affiliates
-> 
-> I don't run ads on this website as I personally don't like them.
-> I use DigitalOcean for my projects and I highly recommend them, if you are looking for an 
-> affordable cloud provider, it would be awesome if you use my referral, you will get $200 in credit over 60 days
-> and it will help me out a little bit
-
-<p align="center">
-<a href="https://www.digitalocean.com/?refcode=b63c500f6bcd&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
-</p>
-
 ## Prerequisites
 
 - A publicly accessible server (if you plan to use HTTP challenge to fetch the certificate)
@@ -59,13 +48,13 @@ For this tutorial, I will be using a Debian 10 server. This should work for any 
 Certbot - Let's us fetch SSL certificates from Let's Encrypt
 python3-certbot-nginx - Helps us configure Nginx SSL config
 
-```
+```bash
 sudo apt install certbot python3-certbot-nginx
 ```
 
 ## Step 2 (Optional) - Verify that the domains are pointing to our server IP
 
-```
+```bash
 ➜  ~ dig ssl.demo.esc.sh +short
 139.59.42.9
 
@@ -91,7 +80,7 @@ location ^~ /.well-known/acme-challenge/ {
 ```
 
 Create the directory
-```
+```bash
 mkdir /var/www/letsencrypt
 
 ```
@@ -120,7 +109,7 @@ Verify nginx `nginx -t`
 
 Reload Nginx
 
-```
+```bash
 sudo systemctl reload nginx
 ```
 
@@ -132,7 +121,7 @@ yet, so skip this. But if you do, allow port 80 to be accessed from anywhere
 
 ## Step 5 - Fetch the Certificate
 
-```
+```bash
 sudo certbot --nginx -d ssl.demo.esc.sh -d www.ssl.demo.esc.sh
 ```
 
@@ -141,7 +130,7 @@ Make sure to give the proper domain names.
 If everything went well, you should see something like:
 (Please note that I chose not to setup a redirect from HTTP to HTTPS)
 
-```
+```text
 > certbot --nginx -d ssl.demo.esc.sh -d www.ssl.demo.esc.sh
 Saving debug log to /var/log/letsencrypt/letsencrypt.log
 Plugins selected: Authenticator nginx, Installer nginx
@@ -234,7 +223,7 @@ server {
 
 We can see that the redirection is working as expected
 
-```
+```text
 ➜  ~ curl -I http://ssl.demo.esc.sh/foobar/something.html
 HTTP/1.1 301 Moved Permanently
 ---snip---
@@ -249,7 +238,7 @@ Add it as a cron so that it runs every 30 days or so.
 
 Press `crontab -e` to edit the crontab. If you are non-root user, do `sudo crontab -e`
 Add the following lines
-```
+```text
 30 2 * * 1 /usr/bin/certbot renew >> /var/log/certbot_renew.log 2>&1
 35 2 * * 1 /etc/init.d/nginx reload
 ```
