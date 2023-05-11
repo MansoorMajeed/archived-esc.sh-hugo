@@ -47,6 +47,10 @@ Depending on the OS you use, you can use `apt` or `dnf` as mentioned above
 ### The Alias
 If you use bash, add the following to your `~/.bashrc` file or If you use zsh, add it to the `~/.zshrc`
 
+```bash
+alias gb="git checkout \$(git for-each-ref --sort=-committerdate --format='%(refname:short)' refs/heads/ | fzf)"
+```
+
 That should be it. reload your terminal or `source ~/.bashrc` or `source ~/.zshrc` to reload your rc file and you are ready to use the alias.
 
 Obviously you can use any shortcut instead of `gb`. Now just type `gb` in a git repo and you can use your arrow key and then press enter to choose the branch easily
